@@ -1,0 +1,21 @@
+Copyright (c) 2025 Jose Fernando Barros
+
+This work is licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+You are free to:
+- Share and reference the work for non-commercial purposes.
+- Use the material in academic, educational, or research contexts, as long as proper attribution is given to the original author.
+
+You may NOT:
+- Modify, adapt, or create derivative works based on this material.
+- Redistribute or publish modified versions of this material, including code, datasets, or documentation.
+- Use this work for commercial purposes.
+- Claim ownership or remove authorship attribution.
+
+To request permission for derivative or commercial use, please contact the author directly.
+
+For inquiries, please reach out via LinkedIn.
+
+*Direct email contact is intentionally not provided to reduce spam and preserve privacy.*
+
+Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
