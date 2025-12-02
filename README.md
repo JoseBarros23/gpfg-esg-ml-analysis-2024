@@ -1,30 +1,39 @@
-# ESG Analysis of the Norwegian Pension Fund Global (GPFG) – 2024
+# Norwegian Pension Fund Global (GPFG) – ESG Equity Analysis & Machine Learning (2024)
 
-This repository presents a project focused on **Environmental, Social, and Governance (ESG) analysis** of the Norwegian Pension Fund Global (GPFG), one of the largest sovereign wealth funds in the world, managed by Norges Bank. The GPFG invests across multiple industries and countries, balancing long-term returns with sustainability considerations.
+This repository provides a structured analysis of the **Norwegian Pension Fund Global (GPFG)** with an **ESG perspective**, using its equity holdings data for 2024. The analysis is divided into three main steps:
 
-The project is organized into **three main notebooks**, covering data exploration, preprocessing, and machine learning for ESG insights.
+## 1. Exploratory Data Analysis (EDA)
+Examines sector and regional allocation, portfolio concentration, and ownership–voting discrepancies.
 
-## Notebooks
+## 2. Data Preprocessing & Feature Engineering
+Prepares a clean dataset for modeling, including variable standardization, outlier treatment, categorical encoding, and the construction of an ESG indicator (`ESG_any`).
 
-1. **Exploratory Data Analysis (EDA)**  
-   - Analyzes the GPFG’s equity holdings in 2024, including sector, industry, and regional allocations.  
-   - Examines portfolio concentration metrics over historical years (2018–2024) using Gini, Lorenz curves, and HHI.  
-   - Provides insights into ownership–voting discrepancies and governance implications.
+## 3. Machine Learning
+Predicts which companies are likely to engage in ESG dialogues based on their characteristics. Multiple models were trained, tuned, and interpreted using SHAP to understand feature importance.
 
-2. **Data Preprocessing & Feature Engineering**  
-   - Prepares the 2024 equity holdings dataset for machine learning.  
-   - Standardizes numeric and categorical variables, handles skewed distributions, and calculates portfolio weights.  
-   - Constructs ESG features from company dialogues to indicate engagement on Environmental, Social, Governance, and Climate topics.
+## Data Sources
+All datasets were obtained or constructed from publicly available GPFG information.  
+- Historical data (2018–2023) is used for context and portfolio concentration analysis.  
+- The 2024 holdings dataset (`clean_fund_2024.xlsx`) and the ESG engagement dataset (`esg_2024.xlsx`) were prepared for machine learning and modeling.  
 
-3. **Machine Learning for ESG Engagement Prediction**  
-   - Builds predictive models to identify companies likely to engage in ESG dialogues with the GPFG.  
-   - Uses manual hyperparameter tuning with GridSearchCV for transparency and domain-specific customization.  
-   - Includes feature importance analysis using SHAP values to interpret model predictions.
-
-## Datasets
-
-- The 2024 equity holdings dataset was obtained from **public GPFG reports**.  
-- The ESG engagement dataset was constructed from **publicly available GPFG company dialogues**. s
 ---
 
-This project aims to combine **financial analysis, ESG insights, and machine learning** to explore how large sovereign funds can monitor and influence corporate sustainability practices.
+# 🔧 Dependencies
+
+This project uses two different environments, each with its own dependency file:
+
+### 1. `requirements.txt`
+Used for the analysis and preprocessing notebooks executed locally on **Python 3.12.4 (VSCode)**.  
+It contains only the libraries required for the exploratory analysis, ESG preprocessing, and multi-year fund processing.
+
+### 2. `requirements_ml.txt`
+Used exclusively for the **machine learning notebook**, which was executed on **Google Colab** to take advantage of faster computation and higher resources than a local PC.  
+This file includes only the packages needed to reproduce the ESG-aligned company classification models.
+
+### How to install
+```bash
+# For local analysis notebooks
+pip install -r requirements.txt
+
+# For the ML notebook (recommended in Google Colab or a virtual environment)
+pip install -r requirements_ml.txt
