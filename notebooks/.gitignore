@@ -1,0 +1,12 @@
+# API credentials
+.env
+
+# Checkpoints
+checkpoint_*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/

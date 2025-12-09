@@ -1,0 +1,80 @@
+{
+  "companies": [
+    {
+      "Ticker": "MSFT",
+      "country": "United States",
+      "id": 142533,
+      "isin": "US5949181045",
+      "meetings": [
+        {
+          "meetingDate": "2025-12-05 00:00:00",
+          "meetingId": 2017007,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2024-12-10 00:00:00",
+          "meetingId": 1906254,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2023-12-07 00:00:00",
+          "meetingId": 1798481,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2022-12-13 00:00:00",
+          "meetingId": 1694381,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2021-11-30 00:00:00",
+          "meetingId": 1584741,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2020-12-02 00:00:00",
+          "meetingId": 1479998,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2019-12-04 00:00:00",
+          "meetingId": 1371482,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2018-11-28 00:00:00",
+          "meetingId": 1274150,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2017-11-29 00:00:00",
+          "meetingId": 1181140,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2016-11-30 00:00:00",
+          "meetingId": 1095821,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2015-12-02 00:00:00",
+          "meetingId": 1009125,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2014-12-03 00:00:00",
+          "meetingId": 924670,
+          "meetingType": "Annual"
+        },
+        {
+          "meetingDate": "2013-11-19 00:00:00",
+          "meetingId": 832414,
+          "meetingType": "Annual"
+        }
+      ],
+      "name": "Microsoft Corporation"
+    }
+  ],
+  "message": null,
+  "status": "success"
+}
