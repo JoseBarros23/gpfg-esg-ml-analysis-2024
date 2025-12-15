@@ -3,19 +3,19 @@ Technology,North America,United States,apple inc,46210392003,1.22,1.22,3.5937817
 Technology,North America,United States,microsoft corp,43758827987,1.4,1.4,3.403123602409156,0,1,1,0,1,True,True
 Technology,North America,United States,nvidia corp,42973911250,1.31,1.31,3.342080635846975,1,0,1,1,1,True,True
 Technology,North America,United States,alphabet inc,29271691564,0.88,1.26,2.276459151819225,0,1,1,0,1,True,True
-Consumer Discretionary,North America,United States,amazon.com inc,26979313029,1.17,1.17,2.098180896733594,1,1,1,1,1,False,False
-Technology,North America,United States,meta platforms inc,19750530468,0.6,1.34,1.535998551325916,1,1,1,1,1,False,False
+Consumer Discretionary,North America,United States,amazon.com inc,26979313029,1.17,1.17,2.098180896733594,1,1,1,1,1,False,True
+Technology,North America,United States,meta platforms inc,19750530468,0.6,1.34,1.535998551325916,1,1,1,1,1,False,True
 Technology,North America,United States,broadcom inc,16712325272,1.54,1.54,1.299717364486511,0,0,1,0,1,True,True
-Technology,Asia,Taiwan,taiwan semiconductor manufacturing co ltd,15368120434,1.8,1.8,1.195178568062864,0,0,0,0,0,False,False
-Consumer Discretionary,North America,United States,tesla inc,14211259233,1.1,1.1,1.105209484361534,1,1,1,1,1,False,False
+Technology,Asia,Taiwan,taiwan semiconductor manufacturing co ltd,15368120434,1.8,1.8,1.195178568062864,0,0,0,0,0,False,True
+Consumer Discretionary,North America,United States,tesla inc,14211259233,1.1,1.1,1.105209484361534,1,1,1,1,1,False,True
 Financials,North America,United States,berkshire hathaway inc,9483089298,1.49,0.49,0.7374997571544871,0,0,0,0,0,True,True
-Health Care,North America,United States,eli lilly & co,8279768708,1.13,1.13,0.6439175272485472,1,1,1,1,1,False,False
-Financials,North America,United States,jpmorgan chase & co,8171466040,1.21,1.21,0.6354948298722789,1,1,1,1,1,False,False
+Health Care,North America,United States,eli lilly & co,8279768708,1.13,1.13,0.6439175272485472,1,1,1,1,1,False,True
+Financials,North America,United States,jpmorgan chase & co,8171466040,1.21,1.21,0.6354948298722789,1,1,1,1,1,False,True
 Technology,Europe,Germany,sap se,7156324287,2.38,2.38,0.5565472661840644,1,1,1,1,1,True,True
 Technology,Europe,Netherlands,asml holding nv,7019542678,2.5,2.5,0.5459097618591843,0,0,1,0,1,True,True
 Energy,North America,United States,exxon mobil corp,6886610101,1.46,1.46,0.5355715967133498,1,1,1,1,1,True,True
 Health Care,Europe,Denmark,novo nordisk a/s,6782991606,0.31,1.75,0.527513187423106,1,1,1,0,1,False,False
-Technology,Asia,China,tencent holdings ltd,6672234732,1.35,1.35,0.5188996264714637,0,0,1,0,1,False,False
+Technology,Asia,China,tencent holdings ltd,6672234732,1.35,1.35,0.5188996264714637,0,0,1,0,1,False,True
 Health Care,North America,United States,unitedhealth group inc,6354521253,1.36,1.36,0.4941910524778997,1,1,1,1,1,True,True
 Consumer Staples,Europe,Switzerland,nestle sa,5965855226,2.76,2.76,0.4639644995562529,1,1,1,1,1,True,True
 Industrials,North America,United States,mastercard inc,5951922338,1.24,1.23,0.4628809389998182,0,0,0,0,0,True,True
@@ -24,70 +24,70 @@ Financials,Europe,Switzerland,ubs group ag,5582607488,5.27,5.27,0.43415932691439
 Health Care,Europe,Switzerland,roche holding ag,5272273510,0.06,2.31,0.4100246566376935,0,0,1,0,1,True,True
 Energy,Europe,United Kingdom,shell plc,5270991163,2.78,2.78,0.4099249285246948,1,1,1,1,1,True,True
 Financials,North America,United States,bank of america corp,5165307914,1.53,1.53,0.4017059433371109,0,1,1,0,1,True,True
-Consumer Staples,North America,United States,procter & gamble co/the,5162466903,1.31,1.31,0.4014849979408659,1,1,1,0,1,False,False
+Consumer Staples,North America,United States,procter & gamble co/the,5162466903,1.31,1.31,0.4014849979408659,1,1,1,0,1,False,True
 Industrials,North America,United States,visa inc,5122782747,0.94,0.87,0.3983987615369703,0,1,1,0,1,True,True
 Consumer Discretionary,North America,United States,costco wholesale corp,5101553130,1.25,1.25,0.3967477344412658,0,0,0,0,0,True,True
-Consumer Discretionary,North America,United States,home depot inc/the,4952991776,1.28,1.28,0.3851941194689119,0,0,0,0,0,False,False
-Consumer Discretionary,North America,United States,netflix inc,4946141466,1.3,1.3,0.3846613709306799,0,1,1,0,1,False,False
+Consumer Discretionary,North America,United States,home depot inc/the,4952991776,1.28,1.28,0.3851941194689119,0,0,0,0,0,False,True
+Consumer Discretionary,North America,United States,netflix inc,4946141466,1.3,1.3,0.3846613709306799,0,1,1,0,1,False,True
 Health Care,Europe,Switzerland,novartis ag,4907196715,2.29,2.29,0.3816326380460281,0,1,1,0,1,True,True
-Consumer Discretionary,Asia,China,alibaba group holding ltd,4408363460,2.18,2.18,0.3428383809360934,0,0,1,0,1,False,False
+Consumer Discretionary,Asia,China,alibaba group holding ltd,4408363460,2.18,2.18,0.3428383809360934,0,0,1,0,1,False,True
 Health Care,North America,United States,abbvie inc,4394086523,1.4,1.4,0.3417280636924679,0,1,1,0,1,True,True
-Health Care,North America,United States,johnson & johnson,4317773129,1.24,1.24,0.3357931718261112,0,0,1,0,1,False,False
+Health Care,North America,United States,johnson & johnson,4317773129,1.24,1.24,0.3357931718261112,0,0,1,0,1,False,True
 Health Care,Europe,United Kingdom,astrazeneca plc,4226875267,2.08,2.08,0.3287240460334225,0,1,1,0,1,True,True
 Real Estate,North America,United States,welltower inc,3927936554,5.01,5.01,0.3054755853985456,1,1,1,1,1,True,True
-Telecommunications,Asia,South Korea,samsung electronics co ltd,3887080727,1.61,1.84,0.3022982281530328,1,1,1,1,1,False,False
-Real Estate,North America,United States,digital realty trust inc,3853765706,6.55,6.42,0.2997073193125689,1,1,1,0,1,False,False
+Telecommunications,Asia,South Korea,samsung electronics co ltd,3887080727,1.61,1.84,0.3022982281530328,1,1,1,1,1,False,True
+Real Estate,North America,United States,digital realty trust inc,3853765706,6.55,6.42,0.2997073193125689,1,1,1,0,1,False,True
 Telecommunications,North America,United States,comcast corp,3805431774,1.76,2.65,0.295948389918132,0,0,1,0,1,True,True
 Consumer Discretionary,Asia,Japan,toyota motor corp,3802076822,1.2,1.2,0.2956874753356039,1,1,1,1,1,True,True
 Financials,Europe,United Kingdom,hsbc holdings plc,3776698753,2.14,2.14,0.2937138231705339,1,0,1,1,1,True,True
 Real Estate,Europe,Germany,vonovia se,3676107989,14.71,14.71,0.2858908804890145,1,1,1,1,1,True,True
 Consumer Discretionary,Europe,France,lvmh moet hennessy louis vuitton se,3632222119,0.75,1.1,0.2824778768305612,0,1,1,0,1,True,True
-Technology,North America,United States,salesforce inc,3535232501,1.1,1.1,0.2749349952364173,0,0,1,0,1,False,False
+Technology,North America,United States,salesforce inc,3535232501,1.1,1.1,0.2749349952364173,0,0,1,0,1,False,True
 Industrials,Europe,Germany,siemens ag,3517824528,2.25,2.25,0.2735811773552803,1,1,1,1,1,True,True
 Energy,Europe,United Kingdom,bp plc,3501063809,4.4,4.4,0.272277696411065,1,1,1,1,1,True,True
-Utilities,North America,United States,nextera energy inc,3453630622,2.34,2.34,0.2685888179460124,1,1,1,1,1,False,False
-Health Care,North America,United States,merck & co inc,3427517743,1.36,1.36,0.2665580196148012,0,0,1,0,1,False,False
-Consumer Staples,North America,United States,coca-cola co/the,3352038180,1.25,1.25,0.2606879747767371,1,1,1,0,1,False,False
-Financials,North America,United States,wells fargo & co,3317308066,1.42,1.42,0.25798701416822,1,1,1,1,1,False,False
+Utilities,North America,United States,nextera energy inc,3453630622,2.34,2.34,0.2685888179460124,1,1,1,1,1,False,True
+Health Care,North America,United States,merck & co inc,3427517743,1.36,1.36,0.2665580196148012,0,0,1,0,1,False,True
+Consumer Staples,North America,United States,coca-cola co/the,3352038180,1.25,1.25,0.2606879747767371,1,1,1,0,1,False,True
+Financials,North America,United States,wells fargo & co,3317308066,1.42,1.42,0.25798701416822,1,1,1,1,1,False,True
 Industrials,Europe,France,schneider electric se,3275749626,2.18,2.28,0.2547550147169248,1,1,1,1,1,True,True
-Telecommunications,North America,United States,cisco systems inc,3248935368,1.38,1.38,0.2526696701480986,0,1,0,0,1,False,False
+Telecommunications,North America,United States,cisco systems inc,3248935368,1.38,1.38,0.2526696701480986,0,1,0,0,1,False,True
 Health Care,North America,United States,thermo fisher scientific inc,3108425233,1.56,1.56,0.2417421983945532,1,1,1,1,1,True,True
 Energy,North America,United States,chevron corp,2966149827,1.14,1.14,0.2306774415334968,1,1,1,1,1,True,True
 Consumer Staples,Europe,United Kingdom,unilever plc,2941429504,2.09,2.09,0.2287549422680807,1,0,1,1,1,True,True
 Basic Materials,North America,United States,linde plc,2900238038,1.45,1.45,0.2255514823809905,0,0,0,0,0,True,True
 Consumer Discretionary,Asia,Japan,sony group corp,2861984207,2.17,2.17,0.2225764823376313,0,0,1,0,1,True,True
-Technology,North America,United States,advanced micro devices inc,2837356134,1.45,1.45,0.2206611573537662,0,0,0,0,0,False,False
-Consumer Staples,North America,United States,pepsico inc,2686385477,1.29,1.29,0.2089201709118864,1,1,1,0,1,False,False
+Technology,North America,United States,advanced micro devices inc,2837356134,1.45,1.45,0.2206611573537662,0,0,0,0,0,False,True
+Consumer Staples,North America,United States,pepsico inc,2686385477,1.29,1.29,0.2089201709118864,1,1,1,0,1,False,True
 Technology,North America,United States,qualcomm inc,2686085180,1.57,1.57,0.2088968168172856,0,1,1,0,1,True,True
 Consumer Discretionary,North America,United States,mcdonald's corp,2682039089,1.29,1.29,0.208582152361837,0,1,1,0,1,True,True
 Technology,North America,United States,texas instruments inc,2581225158,1.51,1.51,0.2007418539850233,0,1,1,0,1,True,True
-Technology,North America,United States,servicenow inc,2578932722,1.18,1.18,0.2005635712608852,0,0,1,0,1,False,False
+Technology,North America,United States,servicenow inc,2578932722,1.18,1.18,0.2005635712608852,0,0,1,0,1,False,True
 Financials,Europe,France,axa sa,2567272079,2.74,3.27,0.1996567231747263,1,1,1,1,1,True,True
 Technology,North America,United States,adobe inc,2512307262,1.28,1.28,0.1953821099220503,0,0,0,0,0,True,True
 Real Estate,North America,United States,equity residential,2487827347,9.14,9.14,0.1934783071843211,1,0,1,1,1,True,True
 Energy,Europe,France,totalenergies se,2446491946,1.85,1.85,0.1902636534737616,1,1,1,1,1,True,True
 Technology,Europe,Netherlands,prosus nv,2409307049,2.43,2.43,0.1873717844165864,0,0,0,0,0,True,True
-Health Care,North America,United States,intuitive surgical inc,2395631461,1.29,1.29,0.1863082340785049,1,0,0,0,1,False,False
+Health Care,North America,United States,intuitive surgical inc,2395631461,1.29,1.29,0.1863082340785049,1,0,0,0,1,False,True
 Financials,North America,Canada,royal bank of canada,2392252095,1.4,1.4,0.1860454208194479,0,1,1,0,1,True,True
 Utilities,Europe,Spain,iberdrola sa,2392104663,2.73,2.73,0.1860339550343245,1,1,1,1,1,True,True
-Consumer Discretionary,North America,United States,walt disney co/the,2373543726,1.18,1.18,0.1845904711547678,0,0,1,0,1,False,False
+Consumer Discretionary,North America,United States,walt disney co/the,2373543726,1.18,1.18,0.1845904711547678,0,0,1,0,1,False,True
 Industrials,Asia,Japan,hitachi ltd,2368668833,2.04,2.04,0.1842113507763051,1,1,1,1,1,True,True
 Industrials,North America,United States,general electric co,2338123098,1.3,1.3,0.181835809279574,1,1,1,1,1,True,True
 Health Care,North America,United States,abbott laboratories,2333030726,1.19,1.19,0.1814397755615184,0,0,0,0,0,True,True
-Financials,North America,United States,blackrock inc,2325066343,1.46,1.46,0.1808203855775367,0,0,1,0,1,False,False
+Financials,North America,United States,blackrock inc,2325066343,1.46,1.46,0.1808203855775367,0,0,1,0,1,False,True
 Industrials,North America,United States,accenture plc,2322768406,0.98,0.98,0.1806416750406852,1,0,1,1,1,True,True
 Health Care,North America,United States,pfizer inc,2297790308,1.53,1.53,0.1786991286161707,0,1,1,0,1,True,True
 Technology,North America,United States,intuit inc,2261689932,1.29,1.29,0.1758916027460093,0,0,0,0,0,True,True
 Telecommunications,North America,United States,verizon communications inc,2254458524,1.34,1.34,0.1753292162202376,0,0,0,0,0,True,True
 Financials,Europe,France,bnp paribas sa,2225660558,3.21,3.21,0.1730895987006575,1,1,1,1,1,True,True
-Health Care,Europe,France,sanofi sa,2212815127,1.05914230722964,1.8,0.1720906096639264,0,1,1,0,1,False,False
+Health Care,Europe,France,sanofi sa,2212815127,1.05914230722964,1.8,0.1720906096639264,0,1,1,0,1,False,True
 Health Care,North America,United States,danaher corp,2186933639,1.32,1.32,0.170077806608405,0,1,0,0,1,True,True
 Technology,North America,United States,oracle corp,2162227655,0.46,0.46,0.1681564224868713,0,0,0,0,0,True,True
-Industrials,North America,United States,caterpillar inc,2147645489,1.23,1.23,0.1670223675870557,1,1,1,1,1,False,False
+Industrials,North America,United States,caterpillar inc,2147645489,1.23,1.23,0.1670223675870557,1,1,1,1,1,False,True
 Financials,Europe,Germany,allianz se,2094513719,1.77,1.77,0.1628903103807134,0,0,0,0,0,True,True
 Technology,Asia,China,meituan,2073346374,0.94,1.76,0.1612441261778084,0,1,1,0,1,True,True
-Financials,Asia,Japan,mitsubishi ufj financial group inc,2058498403,1.45,1.45,0.160089399625877,1,1,1,1,1,False,False
-Real Estate,North America,United States,simon property group inc,2047973500,3.64,3.64,0.159270878027835,1,0,1,1,1,False,False
+Financials,Asia,Japan,mitsubishi ufj financial group inc,2058498403,1.45,1.45,0.160089399625877,1,1,1,1,1,False,True
+Real Estate,North America,United States,simon property group inc,2047973500,3.64,3.64,0.159270878027835,1,0,1,1,1,False,True
 Financials,Asia,India,hdfc bank ltd,2041648205,1.29,1.29,0.1587789599007522,0,0,0,0,0,True,True
 Basic Materials,Europe,United Kingdom,rio tinto plc,1981804637,2.06,2.06,0.1541249262329931,1,1,1,1,1,True,True
 Basic Materials,Europe,France,air liquide sa,1968399507,1.55,2.09,0.1530824094107895,1,1,1,1,1,True,True
@@ -95,25 +95,25 @@ Health Care,North America,United States,bristol-myers squibb co,1965804790,1.71,
 Consumer Discretionary,North America,United States,booking holdings inc,1929495844,1.17,1.17,0.150056871939475,0,1,1,0,1,True,True
 Financials,North America,United States,citigroup inc,1907949810,1.43,1.43,0.1483812370969355,0,1,1,0,1,True,True
 Industrials,North America,United States,union pacific corp,1898609731,1.37,1.37,0.1476548592491854,0,0,0,0,0,True,True
-Basic Materials,Oceania,Australia,bhp group ltd,1895005761,1.53,1.53,0.1473745785393588,1,1,1,1,1,False,False
+Basic Materials,Oceania,Australia,bhp group ltd,1895005761,1.53,1.53,0.1473745785393588,1,1,1,1,1,False,True
 Financials,North America,United States,morgan stanley,1880038127,0.93,0.93,0.1462105457971484,1,1,1,1,1,True,True
-Financials,North America,United States,progressive corp/the,1876280961,1.34,1.34,0.1459183510359778,0,0,0,0,0,False,False
-Telecommunications,North America,United States,at&t inc,1824625996,1.12,1.12,0.1419011449392938,0,0,0,0,0,False,False
+Financials,North America,United States,progressive corp/the,1876280961,1.34,1.34,0.1459183510359778,0,0,0,0,0,False,True
+Telecommunications,North America,United States,at&t inc,1824625996,1.12,1.12,0.1419011449392938,0,0,0,0,0,False,True
 Industrials,Europe,Denmark,dsv a/s,1821165619,3.57,3.57,0.1416320314556002,0,1,1,0,1,False,False
-Consumer Discretionary,North America,United States,lowe's cos inc,1813531811,1.3,1.3,0.1410383502859679,1,1,1,1,1,False,False
+Consumer Discretionary,North America,United States,lowe's cos inc,1813531811,1.3,1.3,0.1410383502859679,1,1,1,1,1,False,True
 Financials,Europe,Finland,nordea bank abp,1806483854,4.74,4.74,0.140490230742579,1,0,1,1,1,True,True
-Telecommunications,North America,United States,t-mobile us inc,1791789019,0.7,0.7,0.1393474135757924,0,0,0,0,0,False,False
-Technology,North America,United States,analog devices inc,1776064894,1.68,1.68,0.1381245485362939,0,0,0,0,0,False,False
-Consumer Discretionary,Europe,Switzerland,cie financiere richemont sa,1773204240,1.09,1.09,0.137902075504141,0,1,1,0,1,False,False
+Telecommunications,North America,United States,t-mobile us inc,1791789019,0.7,0.7,0.1393474135757924,0,0,0,0,0,False,True
+Technology,North America,United States,analog devices inc,1776064894,1.68,1.68,0.1381245485362939,0,0,0,0,0,False,True
+Consumer Discretionary,Europe,Switzerland,cie financiere richemont sa,1773204240,1.09,1.09,0.137902075504141,0,1,1,0,1,False,True
 Consumer Discretionary,Europe,United Kingdom,relx plc,1768955965,2.1,2.1,0.1375716872010923,0,0,0,0,0,True,True
 Industrials,Europe,Switzerland,abb ltd,1766980006,1.75,1.75,0.1374180168899886,1,1,1,1,1,True,True
-Health Care,North America,United States,gilead sciences inc,1765047434,1.53,1.53,0.1372677207854286,0,0,1,0,1,False,False
+Health Care,North America,United States,gilead sciences inc,1765047434,1.53,1.53,0.1372677207854286,0,0,1,0,1,False,True
 Industrials,North America,United States,american express co,1751442078,0.84,0.84,0.1362096323892647,0,1,1,0,1,True,True
-Technology,Asia,South Korea,sk hynix inc,1750989919,2.04,2.04,0.136174467988486,1,1,1,1,1,False,False
-Industrials,Asia,Japan,recruit holdings co ltd,1735956884,1.48,1.48,0.1350053490111783,0,1,1,0,1,False,False
+Technology,Asia,South Korea,sk hynix inc,1750989919,2.04,2.04,0.136174467988486,1,1,1,1,1,False,True
+Industrials,Asia,Japan,recruit holdings co ltd,1735956884,1.48,1.48,0.1350053490111783,0,1,1,0,1,False,True
 Health Care,North America,United States,boston scientific corp,1735513146,1.32,1.32,0.134970839511483,0,0,0,0,0,True,True
 Consumer Discretionary,Europe,Germany,adidas ag,1733093825,3.93,3.93,0.1347826889422002,0,1,1,0,1,True,True
-Technology,North America,United States,palantir technologies inc,1728970094,0.73,1.0,0.1344619864247503,0,1,0,0,1,False,False
+Technology,North America,United States,palantir technologies inc,1728970094,0.73,1.0,0.1344619864247503,0,1,0,0,1,False,True
 Financials,Europe,Italy,unicredit spa,1721309465,2.78,2.78,0.1338662193862239,1,1,1,0,1,True,True
 Industrials,North America,United States,rtx corp,1713829054,1.11,1.11,0.1332844678997037,1,1,1,1,1,True,True
 Consumer Staples,Europe,United Kingdom,diageo plc,1707962808,2.42,2.42,0.1328282500086288,0,1,1,0,1,True,True
@@ -123,115 +123,115 @@ Health Care,North America,United States,stryker corp,1683793988,1.23,1.23,0.1309
 Technology,North America,United States,lam research corp,1670616627,1.8,1.8,0.1299238378964328,0,0,0,0,0,True,True
 Consumer Discretionary,Europe,France,l'oreal sa,1669074671,0.88,0.88,0.1298039199941746,0,0,1,0,1,True,True
 Industrials,Europe,Sweden,atlas copco ab,1662918394,2.04,2.32,0.1293251463952132,0,0,1,0,1,True,True
-Consumer Discretionary,North America,United States,tjx cos inc/the,1645981402,1.21,1.21,0.1280079567016013,0,0,0,0,0,False,False
+Consumer Discretionary,North America,United States,tjx cos inc/the,1645981402,1.21,1.21,0.1280079567016013,0,0,0,0,0,False,True
 Real Estate,North America,United States,invitation homes inc,1642753130,8.39,8.39,0.12775689402137,1,1,1,1,1,True,True
 Health Care,Europe,France,essilorluxottica sa,1640066163,1.47,1.47,0.1275479286254203,0,0,1,0,1,True,True
 Financials,Europe,United Kingdom,london stock exchange group plc,1632252666,2.17,2.17,0.1269402730441065,0,0,0,0,0,True,True
 Industrials,Asia,Japan,keyence corp,1630491980,1.63,1.63,0.1268033445119984,0,0,1,0,1,True,True
-Real Estate,North America,United States,alexandria real estate equities inc,1601936055,9.4,9.4,0.1245825505184985,1,0,1,1,1,False,False
-Financials,Asia,Japan,sumitomo mitsui financial group inc,1601352468,1.7,1.7,0.1245371649635117,0,0,1,0,1,False,False
-Financials,North America,United States,goldman sachs group inc/the,1565974835,0.87,0.84,0.1217858468090256,1,1,1,1,1,False,False
+Real Estate,North America,United States,alexandria real estate equities inc,1601936055,9.4,9.4,0.1245825505184985,1,0,1,1,1,False,True
+Financials,Asia,Japan,sumitomo mitsui financial group inc,1601352468,1.7,1.7,0.1245371649635117,0,0,1,0,1,False,True
+Financials,North America,United States,goldman sachs group inc/the,1565974835,0.87,0.84,0.1217858468090256,1,1,1,1,1,False,True
 Technology,North America,Canada,shopify inc,1565949481,0.73,1.14,0.1217838750287064,0,0,1,0,1,True,True
-Technology,North America,United States,applied materials inc,1560706117,1.18,1.18,0.121376098664364,0,0,0,0,0,False,False
+Technology,North America,United States,applied materials inc,1560706117,1.18,1.18,0.121376098664364,0,0,0,0,0,False,True
 Energy,Asia,India,reliance industries ltd,1546290655,0.8,0.8,0.1202550083329135,1,0,0,1,1,True,True
 Technology,Europe,Germany,infineon technologies ag,1545640044,3.64,3.64,0.1202044103221362,1,0,1,1,1,True,True
 Health Care,North America,United States,centene corp,1534634853,5.02,5.02,0.1193485367312748,1,1,1,1,1,True,True
 Consumer Discretionary,Europe,France,hermes international sca,1532949794,0.36,0.6,0.1192174897101787,1,1,1,1,1,True,True
 Utilities,North America,United States,sempra,1523512539,2.74,2.74,0.1184835544859082,1,1,1,1,1,True,True
 Health Care,North America,United States,amgen inc,1513123105,1.08,1.08,0.1176755683106026,0,0,1,0,1,True,True
-Real Estate,North America,United States,avalonbay communities inc,1492604675,4.77,4.77,0.1160798502205723,1,1,1,1,1,False,False
-Consumer Discretionary,North America,United States,uber technologies inc,1485381448,1.17,1.17,0.1155180999310865,1,1,1,1,1,False,False
-Financials,Asia,Hong Kong,aia group ltd,1478828837,1.88,1.88,0.1150085034410221,0,0,0,0,0,False,False
+Real Estate,North America,United States,avalonbay communities inc,1492604675,4.77,4.77,0.1160798502205723,1,1,1,1,1,False,True
+Consumer Discretionary,North America,United States,uber technologies inc,1485381448,1.17,1.17,0.1155180999310865,1,1,1,1,1,False,True
+Financials,Asia,Hong Kong,aia group ltd,1478828837,1.88,1.88,0.1150085034410221,0,0,0,0,0,False,True
 Financials,Oceania,Australia,commonwealth bank of australia,1477340086,0.93,0.93,0.1148927232910666,1,1,1,1,1,True,True
-Industrials,North America,United States,eaton corp plc,1468440123,1.12,1.12,0.1142005732601091,1,1,1,1,1,False,False
+Industrials,North America,United States,eaton corp plc,1468440123,1.12,1.12,0.1142005732601091,1,1,1,1,1,False,True
 Financials,Europe,United Kingdom,lloyds banking group plc,1467935578,3.53,3.53,0.1141613348006492,1,0,1,1,1,True,True
-Financials,Asia,Japan,tokio marine holdings inc,1461950922,2.03,2.03,0.1136959081650924,1,1,1,1,1,False,False
+Financials,Asia,Japan,tokio marine holdings inc,1461950922,2.03,2.03,0.1136959081650924,1,1,1,1,1,False,True
 Industrials,Europe,Switzerland,holcim ag,1452874063,2.6,2.6,0.1129900009340346,1,1,1,1,1,False,False
-Financials,Asia,India,icici bank ltd,1446178321,1.37,1.37,0.1124692731475725,0,0,0,0,0,False,False
-Technology,North America,United States,micron technology inc,1441607358,1.54,1.54,0.1121137894020833,0,1,1,0,1,False,False
-Industrials,North America,United States,fiserv inc,1428803946,1.22,1.22,0.1111180681825499,0,0,0,0,0,False,False
+Financials,Asia,India,icici bank ltd,1446178321,1.37,1.37,0.1124692731475725,0,0,0,0,0,False,True
+Technology,North America,United States,micron technology inc,1441607358,1.54,1.54,0.1121137894020833,0,1,1,0,1,False,True
+Industrials,North America,United States,fiserv inc,1428803946,1.22,1.22,0.1111180681825499,0,0,0,0,0,False,True
 Telecommunications,Europe,Germany,deutsche telekom ag,1424241990,0.95,0.95,0.110763284911358,0,0,1,0,1,True,True
 Health Care,Oceania,Australia,csl ltd,1421288721,1.68,1.68,0.1105336092116078,0,0,0,0,0,True,True
-Financials,North America,United States,kkr & co inc,1414814320,1.08,1.08,0.1100300951124388,0,0,0,0,0,False,False
-Financials,North America,United States,arthur j gallagher & co,1407159409,1.98,1.98,0.1094347727627137,0,0,0,0,0,False,False
+Financials,North America,United States,kkr & co inc,1414814320,1.08,1.08,0.1100300951124388,0,0,0,0,0,False,True
+Financials,North America,United States,arthur j gallagher & co,1407159409,1.98,1.98,0.1094347727627137,0,0,0,0,0,False,True
 Financials,Europe,Spain,banco bilbao vizcaya argentaria sa,1406968905,2.49,2.49,0.1094199572685933,1,1,1,1,1,True,True
 Industrials,Europe,United Kingdom,crh plc,1399746138,2.23,2.23,0.1088582427533027,1,1,1,1,1,True,True
 Technology,North America,United States,amphenol corp,1389817288,1.66,1.66,0.1080860761909392,0,0,0,0,0,True,True
 Industrials,Europe,Netherlands,adyen nv,1382809458,2.95,2.95,0.1075410773239276,0,1,0,0,1,True,True
-Financials,North America,United States,apollo global management inc,1376097570,1.56,1.56,0.1070190938632116,0,0,0,0,0,False,False
-Telecommunications,North America,United States,arista networks inc,1374337757,0.99,0.99,0.1068822332243046,0,0,0,0,0,False,False
-Basic Materials,Asia,Japan,shin-etsu chemical co ltd,1374176801,2.05,2.05,0.1068697156778403,0,0,0,0,0,False,False
+Financials,North America,United States,apollo global management inc,1376097570,1.56,1.56,0.1070190938632116,0,0,0,0,0,False,True
+Telecommunications,North America,United States,arista networks inc,1374337757,0.99,0.99,0.1068822332243046,0,0,0,0,0,False,True
+Basic Materials,Asia,Japan,shin-etsu chemical co ltd,1374176801,2.05,2.05,0.1068697156778403,0,0,0,0,0,False,True
 Consumer Discretionary,Asia,China,pdd holdings inc,1360790262,1.01,1.01,0.1058286446775154,0,0,1,0,1,True,True
 Industrials,Asia,Japan,itochu corp,1353647941,1.71,1.71,0.1052731864468173,1,1,1,1,1,True,True
 Health Care,North America,United States,vertex pharmaceuticals inc,1353165426,1.3,1.3,0.1052356612602308,0,0,0,0,0,True,True
-Industrials,North America,United States,sherwin-williams co/the,1343256850,1.57,1.57,0.1044650714066387,0,0,0,0,0,False,False
+Industrials,North America,United States,sherwin-williams co/the,1343256850,1.57,1.57,0.1044650714066387,0,0,0,0,0,False,True
 Industrials,Europe,United Kingdom,rolls-royce holdings plc,1340089624,2.21,2.21,0.1042187562731994,1,1,1,1,1,True,True
-Financials,North America,United States,pnc financial services group inc/the,1336593595,1.75,1.75,0.1039468701338325,0,1,1,0,1,False,False
+Financials,North America,United States,pnc financial services group inc/the,1336593595,1.75,1.75,0.1039468701338325,0,1,1,0,1,False,True
 Energy,Europe,Germany,siemens energy ag,1335622690,3.2,3.2,0.10387136286197,1,1,1,1,1,True,True
 Consumer Discretionary,Europe,Spain,industria de diseno textil sa,1326902048,0.83,0.83,0.1031931586233378,1,1,1,0,1,True,True
 Consumer Staples,Europe,Netherlands,dsm-firmenich ag,1324259509,4.93,4.93,0.1029876483924912,0,0,0,0,0,True,True
 Industrials,Europe,United Kingdom,smurfit westrock plc,1318638882,4.7,4.7,0.1025505322885197,0,1,1,0,1,True,True
 Financials,Europe,United Kingdom,natwest group plc,1306997255,3.22,3.22,0.1016451630764852,1,1,1,1,1,True,True
-Real Estate,North America,United States,udr inc,1270575538,8.87,8.87,0.0988126465200593,1,0,1,1,1,False,False
-Financials,North America,United States,charles schwab corp/the,1266330195,0.96,0.93,0.0984824862386205,0,0,1,0,1,False,False
+Real Estate,North America,United States,udr inc,1270575538,8.87,8.87,0.0988126465200593,1,0,1,1,1,False,True
+Financials,North America,United States,charles schwab corp/the,1266330195,0.96,0.93,0.0984824862386205,0,0,1,0,1,False,True
 Real Estate,North America,United States,regency centers corp,1259691200,9.1,9.1,0.0979661716657647,1,0,1,1,1,True,True
-Consumer Discretionary,Asia,Japan,nintendo co ltd,1256964492,1.64,1.64,0.0977541156126539,0,1,1,0,1,False,False
+Consumer Discretionary,Asia,Japan,nintendo co ltd,1256964492,1.64,1.64,0.0977541156126539,0,1,1,0,1,False,True
 Financials,Europe,Spain,banco santander sa,1252296868,1.79,1.79,0.097391114542189,1,1,1,1,1,True,True
 Health Care,Europe,United Kingdom,gsk plc,1240416764,1.77,1.77,0.0964671989763176,0,1,1,0,1,True,True
 Financials,Europe,Sweden,investor ab,1238458580,2.34,1.53,0.0963149110267811,0,0,0,0,0,True,True
 Technology,North America,United States,intel corp,1228669935,1.42,1.42,0.0955536482058253,1,0,1,1,1,True,True
-Financials,Asia,Japan,sompo holdings inc,1227590392,4.73,4.73,0.0954696921578204,0,1,1,0,1,False,False
+Financials,Asia,Japan,sompo holdings inc,1227590392,4.73,4.73,0.0954696921578204,0,1,1,0,1,False,True
 Consumer Discretionary,North America,United States,starbucks corp,1223410924,1.18,1.18,0.0951446549744539,0,1,1,0,1,True,True
-Industrials,North America,United States,deere & co,1221877924,1.06,1.06,0.0950254335802236,1,1,1,1,1,False,False
+Industrials,North America,United States,deere & co,1221877924,1.06,1.06,0.0950254335802236,1,1,1,1,1,False,True
 Technology,Europe,Netherlands,asm international nv,1221051057,4.28,4.28,0.0949611281421395,1,1,0,1,1,True,True
-Financials,North America,United States,marsh & mclennan cos inc,1214558681,1.16,1.16,0.0944562161274055,1,1,1,1,1,False,False
+Financials,North America,United States,marsh & mclennan cos inc,1214558681,1.16,1.16,0.0944562161274055,1,1,1,1,1,False,True
 Technology,Asia,Japan,tokyo electron ltd,1204871247,1.66,1.66,0.0937028244848785,0,0,0,0,0,True,True
 Financials,Asia,Singapore,dbs group holdings ltd,1203408384,1.32,1.32,0.0935890576444167,0,0,0,0,0,True,True
-Technology,North America,United States,cadence design systems inc,1199684199,1.46,1.46,0.0932994278152768,0,0,0,0,0,False,False
-Financials,Asia,Japan,mizuho financial group inc,1199292778,1.92,1.92,0.0932689870081333,0,0,1,0,1,False,False
+Technology,North America,United States,cadence design systems inc,1199684199,1.46,1.46,0.0932994278152768,0,0,0,0,0,False,True
+Financials,Asia,Japan,mizuho financial group inc,1199292778,1.92,1.92,0.0932689870081333,0,0,1,0,1,False,True
 Technology,North America,United States,international business machines corp,1194363649,0.59,0.59,0.0928856486965084,1,0,1,1,1,True,True
 Consumer Staples,North America,United States,mckesson corp,1185013863,1.64,1.64,0.0921585159354681,0,1,1,0,1,True,True
 Technology,North America,United States,kla corp,1181565107,1.4,1.4,0.0918903062168249,0,0,0,0,0,True,True
-Health Care,North America,United States,elevance health inc,1180967686,1.38,1.38,0.0918438447918005,0,1,1,0,1,False,False
-Technology,Asia,Taiwan,mediatek inc,1179853117,1.71,1.71,0.0917571647721359,0,0,0,0,0,False,False
-Financials,North America,United States,intercontinental exchange inc,1178713803,1.38,1.38,0.0916685603340758,0,0,0,0,0,False,False
-Telecommunications,Asia,India,bharti airtel ltd,1174462021,1.05,1.06,0.0913378992916732,0,0,0,0,0,False,False
+Health Care,North America,United States,elevance health inc,1180967686,1.38,1.38,0.0918438447918005,0,1,1,0,1,False,True
+Technology,Asia,Taiwan,mediatek inc,1179853117,1.71,1.71,0.0917571647721359,0,0,0,0,0,False,True
+Financials,North America,United States,intercontinental exchange inc,1178713803,1.38,1.38,0.0916685603340758,0,0,0,0,0,False,True
+Telecommunications,Asia,India,bharti airtel ltd,1174462021,1.05,1.06,0.0913378992916732,0,0,0,0,0,False,True
 Real Estate,North America,United States,american tower corp,1168870463,1.36,1.36,0.0909030438835326,1,1,1,0,1,True,True
 Health Care,Europe,Switzerland,lonza group ag,1167415525,2.73,2.73,0.0907898933702393,1,1,1,1,1,True,True
-Financials,Oceania,Australia,anz group holdings ltd,1165938572,2.21,2.21,0.0906750307506225,0,0,0,0,0,False,False
+Financials,Oceania,Australia,anz group holdings ltd,1165938572,2.21,2.21,0.0906750307506225,0,0,0,0,0,False,True
 Basic Materials,Europe,United Kingdom,anglo american plc,1156656323,2.93,2.93,0.0899531503413775,1,1,1,1,1,True,True
-Financials,North America,United States,chubb ltd,1146566807,1.03,1.03,0.0891684887858466,1,0,1,1,1,False,False
+Financials,North America,United States,chubb ltd,1146566807,1.03,1.03,0.0891684887858466,1,0,1,1,1,False,True
 Health Care,North America,United States,medtronic plc,1142377859,1.12,1.12,0.0888427143429777,0,0,0,0,0,True,True
-Financials,North America,United States,bank of new york mellon corp/the,1138764503,2.04,2.04,0.0885617036840277,0,1,1,0,1,False,False
-Consumer Discretionary,North America,United States,nike inc,1137206822,1.02,1.02,0.0884405628486813,1,1,1,1,1,False,False
+Financials,North America,United States,bank of new york mellon corp/the,1138764503,2.04,2.04,0.0885617036840277,0,1,1,0,1,False,True
+Consumer Discretionary,North America,United States,nike inc,1137206822,1.02,1.02,0.0884405628486813,1,1,1,1,1,False,True
 Consumer Discretionary,Europe,United Kingdom,compass group plc,1131393871,2.0,2.0,0.0879884897092081,0,1,1,0,1,True,True
 Financials,Asia,China,china construction bank corp,1131008851,0.54,0.54,0.0879585467077688,0,0,0,0,0,True,True
 Telecommunications,Asia,Japan,softbank group corp,1127191341,1.31,1.31,0.0876616589943389,0,0,0,0,0,True,True
-Technology,North America,United States,marvell technology inc,1126579949,1.18,1.18,0.0876141110447882,0,0,0,0,0,False,False
+Technology,North America,United States,marvell technology inc,1126579949,1.18,1.18,0.0876141110447882,0,0,0,0,0,False,True
 Industrials,North America,United States,trane technologies plc,1120599405,1.35,1.35,0.087149004199429,1,1,1,1,1,True,True
 Consumer Staples,Europe,France,danone sa,1114462972,2.36,2.43,0.0866717738681435,1,1,1,1,1,True,True
-Consumer Discretionary,Asia,Japan,fast retailing co ltd,1110984698,1.02,1.02,0.0864012685349439,0,0,0,0,0,False,False
+Consumer Discretionary,Asia,Japan,fast retailing co ltd,1110984698,1.02,1.02,0.0864012685349439,0,0,0,0,0,False,True
 Industrials,Asia,Japan,mitsubishi corp,1107366828,1.66,1.66,0.0861199068222604,1,0,1,1,1,True,True
-Consumer Staples,North America,United States,mondelez international inc,1102214056,1.38,1.38,0.0857191757968261,1,1,1,0,1,False,False
+Consumer Staples,North America,United States,mondelez international inc,1102214056,1.38,1.38,0.0857191757968261,1,1,1,0,1,False,True
 Industrials,Europe,Switzerland,sika ag,1101512018,2.88,2.88,0.0856645783087878,0,0,0,0,0,True,True
-Consumer Discretionary,North America,United States,chipotle mexican grill inc,1095809167,1.33,1.33,0.0852210676451821,0,1,1,0,1,False,False
-Technology,North America,United States,crowdstrike holdings inc,1095180596,0.89,1.3,0.0851721836849781,0,0,0,0,0,False,False
-Industrials,North America,United States,ge vernova inc,1091515720,1.2,1.2,0.0848871663161581,1,1,1,1,1,False,False
+Consumer Discretionary,North America,United States,chipotle mexican grill inc,1095809167,1.33,1.33,0.0852210676451821,0,1,1,0,1,False,True
+Technology,North America,United States,crowdstrike holdings inc,1095180596,0.89,1.3,0.0851721836849781,0,0,0,0,0,False,True
+Industrials,North America,United States,ge vernova inc,1091515720,1.2,1.2,0.0848871663161581,1,1,1,1,1,False,True
 Financials,North America,United States,cme group inc,1090145910,1.3,1.3,0.0847806362065491,0,0,0,0,0,True,True
 Industrials,North America,United States,parker-hannifin corp,1089357202,1.33,1.33,0.0847192983935024,1,1,1,0,1,True,True
-Industrials,North America,United States,paypal holdings inc,1073859105,1.25,1.25,0.0835140115492388,0,1,1,0,1,False,False
+Industrials,North America,United States,paypal holdings inc,1073859105,1.25,1.25,0.0835140115492388,0,1,1,0,1,False,True
 Health Care,Europe,Switzerland,alcon ag,1062437163,2.51,2.51,0.0826257272373944,0,0,0,0,0,True,True
 Consumer Staples,Europe,Sweden,essity ab,1058383911,7.38,5.63,0.0823105058710495,1,0,0,1,1,True,True
-Telecommunications,North America,United States,motorola solutions inc,1057897019,1.37,1.37,0.0822726402852181,0,0,0,0,0,False,False
-Industrials,North America,United States,united parcel service inc,1056381439,0.43,0.98,0.0821547736442086,1,0,0,1,1,False,False
-Real Estate,North America,United States,equinix inc,1048387133,1.15,1.15,0.0815330565488247,1,1,1,0,1,False,False
+Telecommunications,North America,United States,motorola solutions inc,1057897019,1.37,1.37,0.0822726402852181,0,0,0,0,0,False,True
+Industrials,North America,United States,united parcel service inc,1056381439,0.43,0.98,0.0821547736442086,1,0,0,1,1,False,True
+Real Estate,North America,United States,equinix inc,1048387133,1.15,1.15,0.0815330565488247,1,1,1,0,1,False,True
 Utilities,Europe,Italy,enel spa,1046837036,1.44,1.44,0.0814125055210803,1,0,1,1,1,True,True
 Financials,Europe,United Kingdom,prudential plc,1046098122,4.93,4.93,0.0813550401869014,0,1,1,0,1,True,True
-Technology,Asia,Taiwan,hon hai precision industry co ltd,1037155950,1.33,1.33,0.0806596075624481,0,0,0,0,0,False,False
-Industrials,Asia,Japan,mitsui & co ltd,1033129264,1.65,1.65,0.0803464522336499,1,1,1,1,1,False,False
-Telecommunications,North America,United States,charter communications inc,1025594233,1.66,1.88,0.0797604529502915,0,0,1,0,1,False,False
-Technology,Asia,India,infosys ltd,1023317788,1.12,1.12,0.0795834138460589,0,0,0,0,0,False,False
-Financials,Europe,Germany,muenchener rueckversicherungs-gesellschaft ag in muenchen,1022701790,1.52,1.52,0.0795355076879356,1,0,0,1,1,False,False
+Technology,Asia,Taiwan,hon hai precision industry co ltd,1037155950,1.33,1.33,0.0806596075624481,0,0,0,0,0,False,True
+Industrials,Asia,Japan,mitsui & co ltd,1033129264,1.65,1.65,0.0803464522336499,1,1,1,1,1,False,True
+Telecommunications,North America,United States,charter communications inc,1025594233,1.66,1.88,0.0797604529502915,0,0,1,0,1,False,True
+Technology,Asia,India,infosys ltd,1023317788,1.12,1.12,0.0795834138460589,0,0,0,0,0,False,True
+Financials,Europe,Germany,muenchener rueckversicherungs-gesellschaft ag in muenchen,1022701790,1.52,1.52,0.0795355076879356,1,0,0,1,1,False,True
 Technology,North America,United States,snowflake inc,1022445425,2.01,2.01,0.0795155701845228,0,0,0,0,0,True,True
 Health Care,Europe,Belgium,argenx se,1020484138,2.72,2.72,0.0793630409147082,0,1,1,0,1,True,True
 Energy,Latin America,Brazil,petroleo brasileiro sa,1011106904,0.77,1.28,0.0786337735229903,0,0,0,0,0,True,True
@@ -239,16 +239,16 @@ Financials,North America,United States,unum group,1003917557,7.53,7.53,0.0780746
 Financials,North America,Canada,bank of montreal,1001067905,1.41,1.41,0.0778530406740298,0,0,1,0,1,True,True
 Real Estate,Europe,United Kingdom,segro plc,998956570,8.41,8.41,0.0776888421727988,1,1,1,1,1,True,True
 Consumer Staples,Europe,Belgium,anheuser-busch inbev sa/nv,996240955,0.99,0.99,0.0774776488221839,0,0,0,0,0,False,False
-Utilities,North America,United States,waste management inc,992999509,1.23,1.23,0.0772255616001081,0,0,0,0,0,False,False
+Utilities,North America,United States,waste management inc,992999509,1.23,1.23,0.0772255616001081,0,0,0,0,0,False,True
 Industrials,North America,United States,howmet aerospace inc,992390022,2.23,2.23,0.0771781618023878,1,1,1,1,1,True,True
 Industrials,Europe,France,vinci sa,984895648,1.64,1.64,0.0765953244135011,0,0,1,0,1,True,True
-Financials,North America,Canada,toronto-dominion bank/the,973496507,1.05,1.05,0.0757088133351922,0,1,1,0,1,False,False
-Financials,North America,United States,moody's corp,973294164,1.13,1.13,0.0756930771221637,0,0,0,0,0,False,False
+Financials,North America,Canada,toronto-dominion bank/the,973496507,1.05,1.05,0.0757088133351922,0,1,1,0,1,False,True
+Financials,North America,United States,moody's corp,973294164,1.13,1.13,0.0756930771221637,0,0,0,0,0,False,True
 Utilities,Europe,United Kingdom,national grid plc,971200817,1.67,1.67,0.0755302775475076,1,1,1,1,1,True,True
 Telecommunications,Asia,China,xiaomi corp,969772273,0.33,0.87,0.0754191796953228,0,0,0,0,0,True,True
 Financials,Europe,Switzerland,swiss re ag,963818147,2.1,2.1,0.0749561273775519,0,0,0,0,0,True,True
 Industrials,North America,United States,transdigm group inc,959097780,1.35,1.35,0.0745890244845196,0,0,1,0,1,True,True
-Technology,North America,United States,palo alto networks inc,957698786,0.8,0.8,0.0744802247355308,0,0,1,0,1,False,False
+Technology,North America,United States,palo alto networks inc,957698786,0.8,0.8,0.0744802247355308,0,0,1,0,1,False,True
 Financials,North America,Canada,brookfield corp,956420780,1.01,1.01,0.0743808342220574,0,0,0,0,0,True,True
 Financials,Europe,Germany,deutsche boerse ag,953833436,2.2,2.2,0.074179616505793,0,0,0,0,0,True,True
 Financials,North America,United States,blackstone inc,949211067,0.72,0.45,0.0738201349162125,1,1,0,1,1,False,False
@@ -1530,12 +1530,12 @@ Industrials,North America,Canada,cae inc,98510967,1.22,1.22,0.0076611968902239,0
 Financials,Asia,Japan,mitsubishi hc capital inc,98483829,1.01,1.01,0.0076590863682431,0,0,0,0,0,True,True
 Energy,Europe,France,vallourec saca,98460910,2.43,2.43,0.0076573039578488,1,1,1,0,1,False,False
 Health Care,Europe,France,biomerieux,98304080,0.48,0.77,0.0076451072903621,0,0,0,0,0,True,True
-Industrials,North America,United States,graphic packaging holding co,98267732,1.21,1.21,0.007642280506776,1,0,1,0,1,False,False
-Financials,Asia,Japan,rakuten bank ltd,98249094,2.0,2.0,0.0076408310297078,0,0,0,0,0,False,False
+Industrials,North America,United States,graphic packaging holding co,98267732,1.21,1.21,0.007642280506776,1,0,1,0,1,False,True
+Financials,Asia,Japan,rakuten bank ltd,98249094,2.0,2.0,0.0076408310297078,0,0,0,0,0,False,True
 Industrials,Europe,Denmark,iss a/s,98125090,2.9,2.9,0.0076311872399034,0,0,0,0,0,False,False
 Energy,Latin America,Brazil,cosan sa,98088787,3.98,3.98,0.0076283639559668,0,0,0,0,0,True,True
 Consumer Staples,Europe,Belgium,lotus bakeries nv,98086557,0.71,1.08,0.0076281905288897,0,0,0,0,0,True,True
-Industrials,North America,United States,api group corp,98028214,0.99,0.99,0.0076236531943799,0,1,1,0,1,False,False
+Industrials,North America,United States,api group corp,98028214,0.99,0.99,0.0076236531943799,0,1,1,0,1,False,True
 Energy,Latin America,Brazil,vibra energia sa,97885784,3.03,3.03,0.0076125764147451,0,0,0,0,0,True,True
 Consumer Discretionary,Asia,Philippines,jollibee foods corp,97876237,1.87,1.87,0.0076118339446533,0,0,0,0,0,True,True
 Consumer Staples,Asia,Japan,aeon co ltd,97872474,0.48,0.48,0.007611541296182,0,0,0,0,0,False,False
@@ -1543,8 +1543,8 @@ Financials,Oceania,Australia,steadfast group ltd,97869582,2.46,2.46,0.0076113163
 Industrials,North America,United States,ryder system inc,97843935,1.47,1.47,0.0076093218184456,0,0,0,0,0,False,False
 Industrials,North America,United States,chart industries inc,97843668,1.2,1.2,0.0076093010538583,0,0,0,0,0,False,False
 Consumer Discretionary,North America,United States,makemytrip ltd,97832708,1.24,0.79,0.007608448694771,0,0,0,0,0,False,False
-Health Care,North America,United States,glaukos corp,97752183,1.18,1.18,0.0076021862663494,0,0,0,0,0,False,False
-Industrials,North America,United States,willscot holdings corp,97733842,1.58,1.58,0.0076007598869681,0,0,0,0,0,False,False
+Health Care,North America,United States,glaukos corp,97752183,1.18,1.18,0.0076021862663494,0,0,0,0,0,False,True
+Industrials,North America,United States,willscot holdings corp,97733842,1.58,1.58,0.0076007598869681,0,0,0,0,0,False,True
 Real Estate,Latin America,Mexico,corp inmobiliaria vesta sab de cv,97478714,4.31,4.31,0.0075809185850325,0,0,0,0,0,False,False
 Financials,Latin America,Brazil,b3 sa - brasil bolsa balcao,97355028,1.07,1.07,0.0075712995260849,0,1,1,0,1,False,False
 Consumer Discretionary,North America,Canada,gildan activewear inc,97349818,1.35,1.35,0.0075708943444385,0,1,0,0,1,True,True
@@ -1564,39 +1564,39 @@ Consumer Discretionary,Asia,Thailand,minor international pcl,96367326,2.23,2.23,
 Health Care,Asia,Japan,eisai co ltd,96362144,1.2,1.2,0.0074940829476185,0,0,0,0,0,False,False
 Consumer Discretionary,North America,United States,hasbro inc,96358816,1.24,1.24,0.0074938241290927,0,0,0,0,0,False,False
 Industrials,Oceania,Australia,worley ltd,96316182,2.14,2.14,0.0074905084833513,0,0,0,0,0,False,False
-Technology,Asia,India,ltimindtree ltd,96300780,0.5,0.5,0.0074893106699697,0,0,0,0,0,False,False
+Technology,Asia,India,ltimindtree ltd,96300780,0.5,0.5,0.0074893106699697,0,0,0,0,0,False,True
 Industrials,North America,United States,wesco international inc,96216251,1.09,1.09,0.0074827368505093,1,1,1,0,1,False,False
 Industrials,North America,United States,a o smith corp,96179783,0.37,0.97,0.0074799007345244,1,0,1,1,1,False,False
 Consumer Staples,North America,United States,ingredion inc,96012203,1.07,1.07,0.0074668680396483,0,0,0,0,0,True,True
-Financials,Europe,United Kingdom,intermediate capital group plc,95983348,1.28,1.28,0.0074646239865951,0,1,0,0,1,False,False
-Technology,North America,United States,mobileye global inc,95937409,0.07,0.59,0.0074610513110377,0,0,0,0,0,False,False
+Financials,Europe,United Kingdom,intermediate capital group plc,95983348,1.28,1.28,0.0074646239865951,0,1,0,0,1,False,True
+Technology,North America,United States,mobileye global inc,95937409,0.07,0.59,0.0074610513110377,0,0,0,0,0,False,True
 Financials,Asia,Taiwan,hua nan financial holdings co ltd,95932505,0.87,0.87,0.0074606699270081,0,0,0,0,0,False,False
-Technology,North America,United States,universal display corp,95924305,1.38,1.38,0.0074600322130925,0,0,0,0,0,False,False
-Health Care,North America,United States,chemed corp,95871548,1.21,1.21,0.0074559293017452,0,0,0,0,0,False,False
+Technology,North America,United States,universal display corp,95924305,1.38,1.38,0.0074600322130925,0,0,0,0,0,False,True
+Health Care,North America,United States,chemed corp,95871548,1.21,1.21,0.0074559293017452,0,0,0,0,0,False,True
 Consumer Discretionary,Asia,Hong Kong,prada spa,95851128,0.48,0.48,0.0074543412385552,0,0,0,0,0,True,True
 Consumer Discretionary,Asia,Japan,niterra co ltd,95838354,1.49,1.49,0.0074533478047066,0,0,0,0,0,False,False
 Financials,Middle East,Kuwait,gulf bank kscp,95820231,2.39,2.39,0.0074519383791831,0,0,0,0,0,False,False
-Technology,Europe,Russia,nebius group nv,95664997,0.62,1.47,0.0074398658325999,0,0,0,0,0,False,False
+Technology,Europe,Russia,nebius group nv,95664997,0.62,1.47,0.0074398658325999,0,0,0,0,0,False,True
 Consumer Discretionary,Latin America,Mexico,alsea sab de cv,95580592,5.65,5.65,0.0074333016566182,0,0,0,0,0,True,True
 Telecommunications,Europe,Italy,telecom italia spa/milano,95411988,0.91,1.59,0.0074201893252726,0,0,0,0,0,False,False
-Technology,North America,United States,fabrinet,95083808,1.19,1.19,0.0073946667700485,0,0,0,0,0,False,False
+Technology,North America,United States,fabrinet,95083808,1.19,1.19,0.0073946667700485,0,0,0,0,0,False,True
 Industrials,Asia,South Korea,samsung c&t corp,95057677,0.69,0.69,0.0073926345624473,0,0,0,0,0,False,False
 Industrials,North America,United States,azek co inc/the,94986995,1.38,1.38,0.0073871376240344,0,0,0,0,0,False,False
-Financials,North America,United States,wintrust financial corp,94906305,1.14,1.14,0.0073808623635645,0,0,0,0,0,False,False
+Financials,North America,United States,wintrust financial corp,94906305,1.14,1.14,0.0073808623635645,0,0,0,0,0,False,True
 Financials,Asia,Indonesia,bank negara indonesia persero tbk pt,94899134,0.94,0.94,0.0073803046749682,0,0,0,0,0,False,False
 Health Care,North America,United States,exelixis inc,94867371,1.0,1.0,0.007377834466785,0,0,0,0,0,False,False
 Technology,Asia,Japan,rakuten group inc,94847517,0.81,0.81,0.0073762904214092,0,0,0,0,0,False,False
-Industrials,Asia,Japan,west japan railway co,94791353,1.13,1.13,0.007371922547707,0,0,0,0,0,False,False
+Industrials,Asia,Japan,west japan railway co,94791353,1.13,1.13,0.007371922547707,0,0,0,0,0,False,True
 Consumer Staples,North America,United States,lamb weston holdings inc,94762935,0.99,0.99,0.0073697124801393,1,0,0,0,1,False,False
-Health Care,Europe,Germany,fresenius medical care ag,94723106,0.71,0.71,0.007366614979219,0,1,0,0,1,False,False
-Industrials,North America,United States,flowserve corp,94628625,1.25,1.25,0.0073592671928209,0,0,0,0,0,False,False
-Industrials,Asia,Singapore,singapore technologies engineering ltd,94585839,0.89,0.89,0.0073559397260411,0,0,0,0,0,False,False
+Health Care,Europe,Germany,fresenius medical care ag,94723106,0.71,0.71,0.007366614979219,0,1,0,0,1,False,True
+Industrials,North America,United States,flowserve corp,94628625,1.25,1.25,0.0073592671928209,0,0,0,0,0,False,True
+Industrials,Asia,Singapore,singapore technologies engineering ltd,94585839,0.89,0.89,0.0073559397260411,0,0,0,0,0,False,True
 Industrials,North America,United States,beacon roofing supply inc,94573418,1.5,1.5,0.0073549737449988,0,0,0,0,0,False,False
-Industrials,Asia,Japan,makita corp,94562377,1.1,1.1,0.0073541150865424,0,0,0,0,0,False,False
+Industrials,Asia,Japan,makita corp,94562377,1.1,1.1,0.0073541150865424,0,0,0,0,0,False,True
 Industrials,North America,United States,badger meter inc,94546763,1.52,1.52,0.007352900785923,0,0,0,0,0,False,False
-Industrials,North America,Canada,element fleet management corp,94517519,1.16,1.16,0.0073506264803438,0,0,0,0,0,False,False
-Technology,North America,United States,maplebear inc,94391085,0.89,0.89,0.0073407937094645,0,0,0,0,0,False,False
-Technology,North America,United States,rambus inc,94367892,1.68,1.68,0.007338989990093,0,0,0,0,0,False,False
+Industrials,North America,Canada,element fleet management corp,94517519,1.16,1.16,0.0073506264803438,0,0,0,0,0,False,True
+Technology,North America,United States,maplebear inc,94391085,0.89,0.89,0.0073407937094645,0,0,0,0,0,False,True
+Technology,North America,United States,rambus inc,94367892,1.68,1.68,0.007338989990093,0,0,0,0,0,False,True
 Energy,Asia,India,suzlon energy ltd,94322011,0.95,0.95,0.007335421825195,0,0,0,0,0,False,False
 Financials,Asia,India,power finance corp ltd,94313174,0.55,0.55,0.0073347345717959,0,0,0,0,0,False,False
 Real Estate,North America,United States,nnn reit inc,93982574,1.23,1.23,0.0073090238131967,0,0,0,0,0,False,False
@@ -1605,13 +1605,13 @@ Consumer Discretionary,North America,United States,taylor morrison home corp,938
 Consumer Discretionary,Oceania,Australia,qantas airways ltd,93704616,1.12,1.12,0.007287407022396,1,1,0,1,1,False,False
 Financials,Oceania,Australia,asx ltd,93677154,1.2,1.2,0.0072852713029385,0,0,0,0,0,False,False
 Consumer Discretionary,Asia,India,jubilant foodworks ltd,93674677,1.69,1.69,0.007285078666674,0,0,0,0,0,False,False
-Industrials,North America,United States,eagle materials inc,93671577,1.13,1.13,0.0072848375797059,1,0,0,1,1,False,False
+Industrials,North America,United States,eagle materials inc,93671577,1.13,1.13,0.0072848375797059,1,0,0,1,1,False,True
 Industrials,Asia,China,yutong bus co ltd,93586865,1.18,1.18,0.0072782495283373,1,1,1,0,1,False,False
 Basic Materials,Asia,Japan,nippon steel corp,93577726,0.43,0.43,0.0072775387884013,1,1,1,0,1,True,True
 Financials,North America,United States,selective insurance group inc,93409085,1.64,1.64,0.0072644235795661,0,0,0,0,0,False,False
-Financials,Latin America,Colombia,bancolombia sa,93336028,0.47,1.2,0.0072587419374277,0,0,0,0,0,False,False
-Technology,Asia,Japan,otsuka corp,93330722,1.07,1.07,0.0072583292898622,0,0,0,0,0,False,False
-Technology,North America,Canada,open text corp,93287624,1.25,1.25,0.0072549775588456,0,0,0,0,0,False,False
+Financials,Latin America,Colombia,bancolombia sa,93336028,0.47,1.2,0.0072587419374277,0,0,0,0,0,False,True
+Technology,Asia,Japan,otsuka corp,93330722,1.07,1.07,0.0072583292898622,0,0,0,0,0,False,True
+Technology,North America,Canada,open text corp,93287624,1.25,1.25,0.0072549775588456,0,0,0,0,0,False,True
 Industrials,North America,United States,spx technologies inc,93038212,1.38,1.38,0.0072355807901712,0,0,0,0,0,False,False
 Consumer Staples,Asia,Japan,toyo suisan kaisha ltd,92961167,1.22,1.22,0.0072295890013138,0,0,0,0,0,False,False
 Real Estate,Asia,Hong Kong,esr group ltd,92808428,1.42,1.42,0.007217710490855,0,0,0,0,0,False,False
@@ -1623,60 +1623,60 @@ Consumer Discretionary,Asia,China,bethel automotive safety systems co ltd,924803
 Health Care,North America,United States,revolution medicines inc,92464217,1.15,1.15,0.0071909412049258,0,0,0,0,0,False,False
 Basic Materials,Asia,China,zhejiang jiuli hi-tech metals co ltd,92381370,2.96,2.96,0.0071844981945881,0,0,0,0,0,False,False
 Industrials,Asia,Japan,misumi group inc,92234657,2.07,2.07,0.0071730883260873,0,0,0,0,0,False,False
-Technology,Asia,Japan,lasertec corp,92132154,1.01,1.01,0.0071651166688317,0,0,0,0,0,False,False
+Technology,Asia,Japan,lasertec corp,92132154,1.01,1.01,0.0071651166688317,0,0,0,0,0,False,True
 Health Care,Asia,South Korea,samsung biologics co ltd,92126076,0.2,0.2,0.0071646439828342,0,0,0,0,0,False,False
 Basic Materials,Europe,Germany,evonik industries ag,92056963,1.14,1.14,0.0071592690655352,0,0,1,0,1,True,True
 Consumer Staples,Europe,United Kingdom,tate & lyle plc,91958951,2.53,2.53,0.0071516466733034,1,0,1,1,1,False,False
-Health Care,Europe,Sweden,getinge ab,91588055,1.28,2.05,0.0071228020951988,0,0,0,0,0,False,False
-Financials,Asia,India,pb fintech ltd,91573900,0.81,0.81,0.0071217012609944,0,0,0,0,0,False,False
+Health Care,Europe,Sweden,getinge ab,91588055,1.28,2.05,0.0071228020951988,0,0,0,0,0,False,True
+Financials,Asia,India,pb fintech ltd,91573900,0.81,0.81,0.0071217012609944,0,0,0,0,0,False,True
 Industrials,North America,United States,berry global group inc,91525770,1.23,1.23,0.0071179581913895,1,0,0,0,1,False,False
-Industrials,Europe,Switzerland,georg fischer ag,91469980,1.47,1.47,0.0071136194036634,0,0,0,0,0,False,False
-Real Estate,North America,United States,kite realty group trust,91335256,1.65,1.65,0.0071031419195693,0,0,0,0,0,False,False
+Industrials,Europe,Switzerland,georg fischer ag,91469980,1.47,1.47,0.0071136194036634,0,0,0,0,0,False,True
+Real Estate,North America,United States,kite realty group trust,91335256,1.65,1.65,0.0071031419195693,0,0,0,0,0,False,True
 Basic Materials,Europe,Sweden,ssab ab,90962732,1.66,2.29,0.0070741707319214,1,1,1,0,1,True,True
-Industrials,North America,United States,generac holdings inc,90912637,0.99,0.99,0.0070702748442867,0,0,0,0,0,False,False
+Industrials,North America,United States,generac holdings inc,90912637,0.99,0.99,0.0070702748442867,0,0,0,0,0,False,True
 Health Care,Asia,Thailand,bumrungrad hospital pcl,90811423,1.95,1.95,0.0070624034325478,0,0,0,0,0,False,False
-Health Care,Asia,India,inventurus knowledge solutions ltd,90753440,2.36,2.36,0.0070578940952343,0,0,0,0,0,False,False
+Health Care,Asia,India,inventurus knowledge solutions ltd,90753440,2.36,2.36,0.0070578940952343,0,0,0,0,0,False,True
 Health Care,North America,United States,ensign group inc/the,90746569,1.19,1.19,0.007057359737635,0,0,0,0,0,False,False
-Technology,Asia,Taiwan,gold circuit electronics ltd,90738721,2.5,2.5,0.0070567493987557,0,0,0,0,0,False,False
+Technology,Asia,Taiwan,gold circuit electronics ltd,90738721,2.5,2.5,0.0070567493987557,0,0,0,0,0,False,True
 Industrials,Asia,India,kei industries ltd,90549970,1.83,1.83,0.0070420702354274,0,0,0,0,0,False,False
 Industrials,North America,United States,genpact ltd,90516309,1.19,1.19,0.0070394524198036,0,0,0,0,0,False,False
 Real Estate,North America,United States,first industrial realty trust inc,90489362,1.36,1.36,0.0070373567518908,0,0,1,0,1,False,False
 Consumer Discretionary,North America,United States,u-haul holding co,90312480,2.07,0.7,0.0070236006405704,0,0,0,0,0,True,True
 Financials,Europe,Poland,powszechna kasa oszczednosci bank polski sa,90168532,0.5,0.5,0.0070124058060912,0,0,0,0,0,False,False
-Industrials,Asia,Taiwan,hiwin technologies corp,90104475,2.54,2.54,0.0070074240938601,0,0,0,0,0,False,False
-Industrials,Europe,France,bollore se,90096671,0.29,0.51,0.0070068171768604,0,1,1,0,1,False,False
+Industrials,Asia,Taiwan,hiwin technologies corp,90104475,2.54,2.54,0.0070074240938601,0,0,0,0,0,False,True
+Industrials,Europe,France,bollore se,90096671,0.29,0.51,0.0070068171768604,0,1,1,0,1,False,True
 Financials,Asia,India,lic housing finance ltd,90061523,2.34,2.34,0.0070040837172619,0,0,0,0,0,False,False
 Consumer Staples,Asia,Hong Kong,swire pacific ltd,90019189,1.43,1.43,0.0070007914025174,0,0,0,0,0,False,False
 Energy,North America,Canada,keyera corp,89962603,1.28,1.28,0.0069963907098795,0,0,0,0,0,True,True
 Basic Materials,Latin America,Chile,sociedad quimica y minera de chile sa,89940392,0.86,0.86,0.006994663360638,0,0,0,0,0,True,True
-Real Estate,Europe,Sweden,sagax ab,89906572,0.94,1.42,0.0069920331795859,0,0,0,0,0,False,False
+Real Estate,Europe,Sweden,sagax ab,89906572,0.94,1.42,0.0069920331795859,0,0,0,0,0,False,True
 Technology,Asia,Japan,hirose electric co ltd,89589742,2.1,2.1,0.0069673933137451,0,0,0,0,0,False,False
 Industrials,Europe,Belgium,ackermans & van haaren nv,89518033,1.37,1.37,0.0069618165055527,0,0,0,0,0,False,False
 Consumer Discretionary,Asia,India,dixon technologies india ltd,89261288,0.71,0.71,0.0069418494495438,0,0,0,0,0,False,False
 Financials,North America,United States,kinsale capital group inc,89199841,0.82,0.82,0.0069370707169859,0,0,0,0,0,False,False
 Consumer Discretionary,Asia,Japan,tokyu corp,89171874,1.33,1.33,0.0069348957236836,0,0,0,0,0,True,True
-Industrials,Europe,Germany,rational ag,89094014,0.92,0.92,0.0069288405522845,0,0,0,0,0,False,False
+Industrials,Europe,Germany,rational ag,89094014,0.92,0.92,0.0069288405522845,0,0,0,0,0,False,True
 Consumer Discretionary,North America,United States,aramark,88948831,0.9,0.9,0.006917549671868,0,0,0,0,0,True,True
 Consumer Discretionary,Asia,Japan,konami group corp,88894169,0.66,0.66,0.0069132986086903,0,0,0,0,0,True,True
 Consumer Discretionary,North America,United States,electronic arts inc,88643316,0.23,0.23,0.0068937897734608,0,0,0,0,0,True,True
 Consumer Discretionary,Asia,Japan,aisin corp,88508267,0.97,0.97,0.00688328701412,1,1,1,1,1,True,True
 Health Care,Oceania,Australia,pro medicus ltd,88504911,0.55,0.55,0.0068830260180346,0,0,0,0,0,False,False
 Consumer Discretionary,North America,United States,abercrombie & fitch co,88478169,1.18,1.18,0.0068809462929696,0,0,0,0,0,False,False
-Real Estate,Asia,Japan,japan metropolitan fund invest,88206139,2.14,2.14,0.006859790522668,0,0,0,0,0,False,False
+Real Estate,Asia,Japan,japan metropolitan fund invest,88206139,2.14,2.14,0.006859790522668,0,0,0,0,0,False,True
 Basic Materials,North America,United States,rbc bearings inc,88183780,0.94,0.94,0.006858051663468,0,0,0,0,0,True,True
 Financials,North America,United States,axis capital holdings ltd,88146946,1.19,1.19,0.0068551870836669,0,0,0,0,0,False,False
-Financials,North America,United States,xp inc,88103776,0.51,1.38,0.006851829753211,0,1,1,0,1,False,False
-Technology,North America,United States,onto innovation inc,87986760,1.07,1.07,0.0068427294200947,0,0,0,0,0,False,False
-Industrials,North America,United States,axalta coating systems ltd,87849584,1.18,1.18,0.0068320612439858,1,0,1,1,1,False,False
-Health Care,Europe,France,ipsen sa,87792710,0.58,0.91,0.0068276381535908,0,0,0,0,0,False,False
+Financials,North America,United States,xp inc,88103776,0.51,1.38,0.006851829753211,0,1,1,0,1,False,True
+Technology,North America,United States,onto innovation inc,87986760,1.07,1.07,0.0068427294200947,0,0,0,0,0,False,True
+Industrials,North America,United States,axalta coating systems ltd,87849584,1.18,1.18,0.0068320612439858,1,0,1,1,1,False,True
+Health Care,Europe,France,ipsen sa,87792710,0.58,0.91,0.0068276381535908,0,0,0,0,0,False,True
 Financials,Asia,Taiwan,taiwan cooperative financial holding co ltd,87500198,0.78,0.78,0.0068048894983599,0,0,0,0,0,False,False
-Utilities,North America,Canada,altagas ltd,87318689,1.26,1.26,0.006790773545297,0,0,0,0,0,False,False
-Industrials,Asia,Japan,kawasaki heavy industries ltd,87296305,1.12,1.12,0.0067890327418473,1,0,1,1,1,False,False
+Utilities,North America,Canada,altagas ltd,87318689,1.26,1.26,0.006790773545297,0,0,0,0,0,False,True
+Industrials,Asia,Japan,kawasaki heavy industries ltd,87296305,1.12,1.12,0.0067890327418473,1,0,1,1,1,False,True
 Financials,North America,United States,agnc investment corp,87269014,1.07,1.07,0.006786910321058,0,0,0,0,0,True,True
 Consumer Discretionary,Asia,South Korea,krafton inc,87221016,0.86,0.86,0.0067831775170918,0,0,0,0,0,False,False
 Health Care,Asia,China,shandong weigao group medical polymer co ltd,87220195,3.26,3.26,0.0067831136679302,0,0,0,0,0,False,False
-Industrials,Europe,Italy,buzzi spa,87098317,1.23,1.23,0.006773635217124,1,0,1,1,1,False,False
-Financials,Europe,Belgium,sofina sa,87094990,1.12,1.12,0.0067733764763682,0,0,0,0,0,False,False
+Industrials,Europe,Italy,buzzi spa,87098317,1.23,1.23,0.006773635217124,1,0,1,1,1,False,True
+Financials,Europe,Belgium,sofina sa,87094990,1.12,1.12,0.0067733764763682,0,0,0,0,0,False,True
 Consumer Staples,North America,United States,brown-forman corp,86718517,1.05914230722964,0.48,0.0067440981750309,0,0,0,0,0,True,True
 Technology,Asia,Taiwan,compeq manufacturing co ltd,86443349,3.39,3.39,0.0067226983625015,0,0,0,0,0,False,False
 Consumer Discretionary,North America,United States,mgm resorts international,86440454,0.84,0.84,0.0067224732183813,0,0,0,0,0,True,True
@@ -1684,34 +1684,34 @@ Financials,North America,United States,commerce bancshares inc/mo,86327140,1.03,
 Industrials,North America,United States,advanced drainage systems inc,86185233,0.96,0.96,0.0067026246838367,0,0,0,0,0,False,False
 Financials,Asia,Thailand,srisawad corp pcl,86175795,4.66,4.66,0.0067018906906738,0,0,0,0,0,False,False
 Consumer Discretionary,Europe,Switzerland,avolta ag,86128306,1.47,1.47,0.0066981974716323,0,1,0,0,1,True,True
-Health Care,North America,United States,scholar rock holding corp,86043197,2.13,2.13,0.0066915785455778,0,0,1,0,1,False,False
-Financials,North America,United States,mgic investment corp,85908253,1.43,1.43,0.0066810839520859,0,0,0,0,0,False,False
+Health Care,North America,United States,scholar rock holding corp,86043197,2.13,2.13,0.0066915785455778,0,0,1,0,1,False,True
+Financials,North America,United States,mgic investment corp,85908253,1.43,1.43,0.0066810839520859,0,0,0,0,0,False,True
 Consumer Discretionary,Europe,Belgium,d'ieteren group,85839110,0.96,0.96,0.0066757067016872,1,1,1,1,1,True,True
 Health Care,North America,United States,healthequity inc,85820558,1.03,1.03,0.006674263912838,0,0,0,0,0,False,False
-Health Care,Europe,Sweden,swedish orphan biovitrum ab,85646969,0.84,0.84,0.0066607638980937,0,0,0,0,0,False,False
+Health Care,Europe,Sweden,swedish orphan biovitrum ab,85646969,0.84,0.84,0.0066607638980937,0,0,0,0,0,False,True
 Industrials,Asia,Japan,agc inc,85504994,1.34,1.34,0.0066497225038042,0,0,0,0,0,False,False
-Financials,Europe,Spain,bankinter sa,85501665,1.2,1.2,0.0066494636075084,0,1,1,0,1,False,False
+Financials,Europe,Spain,bankinter sa,85501665,1.2,1.2,0.0066494636075084,0,1,1,0,1,False,True
 Consumer Discretionary,Asia,India,samvardhana motherson international ltd,85484895,0.67,0.67,0.006648159404781,0,0,0,0,0,False,False
 Basic Materials,Europe,Switzerland,ems-chemie holding ag,85471675,0.54,0.54,0.006647131285517,0,0,0,0,0,True,True
 Industrials,North America,United States,mks instruments inc,85451149,1.22,1.22,0.0066455349787081,0,0,0,0,0,False,False
 Financials,Europe,Switzerland,swissquote group holding sa,85439232,1.45,1.45,0.0066446081937407,0,0,0,0,0,False,False
-Health Care,Asia,India,alkem laboratories ltd,85353825,1.08,1.08,0.0066379660922293,0,0,0,0,0,False,False
+Health Care,Asia,India,alkem laboratories ltd,85353825,1.08,1.08,0.0066379660922293,0,0,0,0,0,False,True
 Industrials,North America,United States,ati inc,85046707,1.08,1.08,0.0066140815285285,0,0,0,0,0,False,False
-Technology,Oceania,Australia,nextdc ltd,85008817,1.42,1.42,0.0066111348236183,0,0,0,0,0,False,False
-Industrials,Asia,Japan,yaskawa electric corp,84910242,1.23,1.23,0.0066034686468823,0,0,1,0,1,False,False
+Technology,Oceania,Australia,nextdc ltd,85008817,1.42,1.42,0.0066111348236183,0,0,0,0,0,False,True
+Industrials,Asia,Japan,yaskawa electric corp,84910242,1.23,1.23,0.0066034686468823,0,0,1,0,1,False,True
 Industrials,Asia,India,siemens ltd,84728490,0.31,0.31,0.006589333795712,0,0,0,0,0,False,False
 Real Estate,Oceania,Australia,vicinity ltd,84551513,1.43,1.43,0.0065755702962425,0,0,0,0,0,False,False
 Technology,North America,United States,macom technology solutions holdings inc,84521525,0.9,0.9,0.006573238129791,0,0,0,0,0,False,False
-Industrials,Asia,Japan,yokogawa electric corp,84443455,1.45,1.45,0.0065671666266941,0,0,0,0,0,False,False
+Industrials,Asia,Japan,yokogawa electric corp,84443455,1.45,1.45,0.0065671666266941,0,0,0,0,0,False,True
 Consumer Discretionary,Europe,Germany,porsche automobil holding se,84343912,1.05914230722964,0.73,0.0065594251686081,1,1,1,1,1,False,False
 Health Care,Oceania,Australia,ramsay health care ltd,84240610,1.71,1.71,0.0065513913731307,0,0,0,0,0,False,False
-Industrials,Europe,United Kingdom,international distribution services plc,83699598,1.92,1.92,0.006509316875456,0,0,0,0,0,False,False
-Financials,North America,United States,janus henderson group plc,83525050,1.24,1.24,0.0064957422792916,0,0,1,0,1,False,False
-Technology,Asia,South Korea,hyosung heavy industries corp,83504205,3.35,3.35,0.006494121163856,0,0,0,0,0,False,False
+Industrials,Europe,United Kingdom,international distribution services plc,83699598,1.92,1.92,0.006509316875456,0,0,0,0,0,False,True
+Financials,North America,United States,janus henderson group plc,83525050,1.24,1.24,0.0064957422792916,0,0,1,0,1,False,True
+Technology,Asia,South Korea,hyosung heavy industries corp,83504205,3.35,3.35,0.006494121163856,0,0,0,0,0,False,True
 Consumer Discretionary,Europe,France,la francaise des jeux saca,83484139,0.78,1.17,0.0064925606312424,0,0,0,0,0,False,False
 Technology,Asia,Taiwan,gigabyte technology co ltd,83468992,1.5,1.5,0.0064913826492082,0,0,0,0,0,False,False
 Consumer Discretionary,Europe,Austria,do & co ag,83369265,4.07,4.07,0.0064836268814441,0,0,0,0,0,False,False
-Health Care,Europe,Sweden,sectra ab,83245329,1.06,1.7,0.006473988379999,0,0,0,0,0,False,False
+Health Care,Europe,Sweden,sectra ab,83245329,1.06,1.7,0.006473988379999,0,0,0,0,0,False,True
 Basic Materials,North America,United States,ufp industries inc,83149443,1.22,1.22,0.0064665313267654,0,0,0,0,0,False,False
 Real Estate,North America,United States,essential properties realty trust inc,83121814,1.51,1.51,0.0064643826197196,0,0,0,0,0,False,False
 Health Care,North America,United States,amedisys inc,83060503,2.79,2.79,0.0064596144638803,0,0,0,0,0,False,False
@@ -1719,178 +1719,178 @@ Consumer Discretionary,Europe,Türkiye,turk hava yollari ao,82960055,0.76,0.76,0
 Technology,Asia,Japan,cyberagent inc,82954164,2.35,2.35,0.0064513444809442,0,0,0,0,0,False,False
 Health Care,North America,United States,perrigo co plc,82891971,2.36,2.36,0.0064465077319739,0,0,0,0,0,False,False
 Consumer Discretionary,Europe,Sweden,h & m hennes & mauritz ab,82688525,0.18,0.38,0.0064306857386468,1,1,1,0,1,False,False
-Technology,Asia,Taiwan,phison electronics corp,82621884,2.47,2.47,0.0064255030687623,0,0,0,0,0,False,False
+Technology,Asia,Taiwan,phison electronics corp,82621884,2.47,2.47,0.0064255030687623,0,0,0,0,0,False,True
 Consumer Discretionary,Asia,Japan,nissan motor co ltd,82565349,0.73,0.73,0.0064211063423938,0,0,0,0,0,False,False
-Health Care,Europe,Italy,diasorin spa,82476020,0.91,1.43,0.0064141592269828,0,0,0,0,0,False,False
-Industrials,Asia,Japan,sojitz corp,82191464,1.77,1.77,0.0063920293097899,0,0,0,0,0,False,False
+Health Care,Europe,Italy,diasorin spa,82476020,0.91,1.43,0.0064141592269828,0,0,0,0,0,False,True
+Industrials,Asia,Japan,sojitz corp,82191464,1.77,1.77,0.0063920293097899,0,0,0,0,0,False,True
 Consumer Discretionary,Europe,Germany,auto1 group se,82174849,2.34,2.34,0.0063907371614109,0,0,0,0,0,True,True
 Consumer Discretionary,North America,United States,asbury automotive group inc,82079251,1.72,1.72,0.0063833025059343,0,0,0,0,0,False,False
 Technology,Asia,Japan,canon inc,81921218,0.19,0.19,0.0063710122811499,0,0,0,0,0,False,False
 Financials,Asia,India,rec ltd,81868775,0.53,0.53,0.0063669337895794,0,0,0,0,0,False,False
-Financials,Europe,Portugal,banco comercial portugues sa,81825826,1.13,1.13,0.0063635936462912,0,0,0,0,0,False,False
-Industrials,Latin America,Mexico,cemex sab de cv,80205382,0.25,0.25,0.0062375717330804,1,1,0,1,1,False,False
-Financials,Europe,Sweden,skandinaviska enskilda banken ab,80139294,0.26,0.28,0.0062324320700003,0,1,0,0,1,False,False
-Industrials,Europe,United Kingdom,rotork plc,80081267,2.41,2.41,0.0062279193108072,1,1,1,1,1,False,False
+Financials,Europe,Portugal,banco comercial portugues sa,81825826,1.13,1.13,0.0063635936462912,0,0,0,0,0,False,True
+Industrials,Latin America,Mexico,cemex sab de cv,80205382,0.25,0.25,0.0062375717330804,1,1,0,1,1,False,True
+Financials,Europe,Sweden,skandinaviska enskilda banken ab,80139294,0.26,0.28,0.0062324320700003,0,1,0,0,1,False,True
+Industrials,Europe,United Kingdom,rotork plc,80081267,2.41,2.41,0.0062279193108072,1,1,1,1,1,False,True
 Industrials,Asia,Taiwan,tcc group holdings co ltd,79899614,1.09,1.09,0.0062137921588658,1,0,0,1,1,False,False
 Financials,Oceania,Australia,medibank pvt ltd,78636178,1.22,1.22,0.0061155347541426,0,0,1,0,1,False,False
-Industrials,Europe,France,nexans sa,77376818,1.64,1.64,0.0060175943398974,1,0,0,1,1,False,False
+Industrials,Europe,France,nexans sa,77376818,1.64,1.64,0.0060175943398974,1,0,0,1,1,False,True
 Basic Materials,North America,United States,lyondellbasell industries nv,77035221,0.32,0.32,0.0059910283447214,1,0,1,0,1,False,False
 Consumer Staples,Europe,Ireland,glanbia plc,76833650,2.15,2.15,0.0059753521701249,0,0,1,0,1,True,True
 Industrials,North America,United States,aaon inc,76580613,0.8,0.8,0.0059556734852378,1,0,0,1,1,False,False
-Financials,Europe,United Kingdom,ig group holdings plc,76480112,1.74,1.74,0.0059478575235017,0,1,0,0,1,False,False
+Financials,Europe,United Kingdom,ig group holdings plc,76480112,1.74,1.74,0.0059478575235017,0,1,0,0,1,False,True
 Real Estate,North America,United States,stag industrial inc,75470987,1.22,1.2,0.0058693778826324,1,1,1,1,1,False,False
 Basic Materials,Oceania,Australia,igo ltd,75452706,3.37,3.37,0.0058679561694504,1,0,1,1,1,True,True
-Financials,Europe,Switzerland,helvetia holding ag,74445134,0.85,0.85,0.0057895973053752,1,1,1,1,1,False,False
+Financials,Europe,Switzerland,helvetia holding ag,74445134,0.85,0.85,0.0057895973053752,1,1,1,1,1,False,True
 Industrials,Asia,Japan,park24 co ltd,74240937,3.08,3.08,0.0057737169067857,1,0,1,1,1,False,False
 Technology,North America,United States,sentinelone inc,73528198,0.4,1.03,0.0057182872020875,0,0,1,0,1,False,False
 Financials,Europe,United Kingdom,man group plc/jersey,73395955,2.3,2.3,0.0057080026653379,0,0,1,0,1,False,False
-Industrials,Asia,Japan,ihi corp,73098043,0.8,0.8,0.0056848340521625,0,0,1,0,1,False,False
+Industrials,Asia,Japan,ihi corp,73098043,0.8,0.8,0.0056848340521625,0,0,1,0,1,False,True
 Consumer Discretionary,Europe,Germany,hugo boss ag,71998542,2.21,2.21,0.0055993258707028,0,1,1,0,1,True,True
 Industrials,North America,United States,summit materials inc,71314679,0.8,0.8,0.0055461418522276,1,1,1,1,1,False,False
 Basic Materials,North America,Canada,first quantum minerals ltd,71154363,0.66,0.66,0.0055336740785568,1,1,1,0,1,True,True
-Industrials,Europe,Netherlands,aalberts nv,71067504,1.81,1.81,0.0055269190550203,1,1,1,1,1,False,False
+Industrials,Europe,Netherlands,aalberts nv,71067504,1.81,1.81,0.0055269190550203,1,1,1,1,1,False,True
 Consumer Discretionary,Asia,China,xpeng inc,70826430,0.23,0.62,0.0055081707325202,1,1,1,1,1,False,False
 Energy,Europe,Italy,snam spa,70379408,0.47,0.47,0.0054734058361786,0,0,1,0,1,True,True
-Financials,Europe,United Kingdom,bridgepoint group plc,70170737,1.89,1.89,0.0054571774946552,0,0,1,0,1,False,False
+Financials,Europe,United Kingdom,bridgepoint group plc,70170737,1.89,1.89,0.0054571774946552,0,0,1,0,1,False,True
 Industrials,Latin America,Mexico,orbia advance corp sab de cv,69767624,4.92,4.92,0.0054258274007919,0,1,0,0,1,False,False
-Real Estate,Europe,United Kingdom,tritax big box reit plc,69100995,1.68,1.68,0.0053739836703194,0,0,1,0,1,False,False
+Real Estate,Europe,United Kingdom,tritax big box reit plc,69100995,1.68,1.68,0.0053739836703194,0,0,1,0,1,False,True
 Basic Materials,Asia,Japan,jfe holdings inc,68963006,0.95,0.95,0.0053632522672089,1,1,1,0,1,False,False
 Energy,Europe,Austria,omv ag,68830166,0.54,0.54,0.0053529213017754,1,1,1,1,1,True,True
-Utilities,Europe,Spain,endesa sa,68413972,0.3,0.3,0.0053205538986767,1,1,1,1,1,False,False
+Utilities,Europe,Spain,endesa sa,68413972,0.3,0.3,0.0053205538986767,1,1,1,1,1,False,True
 Energy,Oceania,Australia,apa group,67788594,1.21,1.21,0.0052719182580499,1,0,0,1,1,True,True
 Financials,Oceania,Australia,challenger ltd,66636611,2.59,2.59,0.0051823285519901,0,0,1,0,1,False,False
-Industrials,North America,United States,knife river corp,66630813,1.16,1.16,0.0051818776415898,0,1,1,0,1,False,False
+Industrials,North America,United States,knife river corp,66630813,1.16,1.16,0.0051818776415898,0,1,1,0,1,False,True
 Industrials,Asia,China,kanzhun ltd,66406083,0.34,1.07,0.0051644003918015,0,0,1,0,1,False,False
-Industrials,North America,United States,vontier corp,64869481,1.18,1.18,0.0050448988700683,1,1,1,1,1,False,False
+Industrials,North America,United States,vontier corp,64869481,1.18,1.18,0.0050448988700683,1,1,1,1,1,False,True
 Consumer Staples,Asia,Hong Kong,wh group ltd,64515298,0.65,0.65,0.0050173540618017,0,0,1,0,1,False,False
 Consumer Staples,Europe,Germany,hellofresh se,64441422,3.06,3.06,0.0050116087260417,0,1,1,0,1,True,True
-Financials,North America,United States,comerica inc,64150078,0.79,0.79,0.0049889509061587,0,0,1,0,1,False,False
+Financials,North America,United States,comerica inc,64150078,0.79,0.79,0.0049889509061587,0,0,1,0,1,False,True
 Technology,Asia,China,bilibili inc,64063652,0.3,0.84,0.0049822295570277,0,0,1,0,1,False,False
 Consumer Staples,North America,United States,celsius holdings inc,63939665,1.03,1.03,0.0049725870893132,0,0,1,0,1,False,False
-Financials,Europe,United Kingdom,phoenix group holdings plc,63778060,1.0,1.0,0.0049600190701256,1,1,1,1,1,False,False
+Financials,Europe,United Kingdom,phoenix group holdings plc,63778060,1.0,1.0,0.0049600190701256,1,1,1,1,1,False,True
 Telecommunications,Asia,Malaysia,axiata group bhd,62824703,1.23,1.23,0.0048858765060426,0,1,0,0,1,False,False
 Energy,Europe,Spain,enagas sa,62768946,1.96,1.96,0.0048815402847262,1,1,1,1,1,True,True
-Financials,Europe,Switzerland,cembra money bank ag,62404059,2.3,2.3,0.0048531630264897,1,1,0,1,1,False,False
-Industrials,Europe,Germany,daimler truck holding ag,62357670,0.21,0.21,0.0048495553544369,1,1,1,1,1,False,False
-Financials,Europe,Türkiye,turkiye garanti bankasi as,61958450,0.42,0.42,0.0048185080191436,0,0,1,0,1,False,False
+Financials,Europe,Switzerland,cembra money bank ag,62404059,2.3,2.3,0.0048531630264897,1,1,0,1,1,False,True
+Industrials,Europe,Germany,daimler truck holding ag,62357670,0.21,0.21,0.0048495553544369,1,1,1,1,1,False,True
+Financials,Europe,Türkiye,turkiye garanti bankasi as,61958450,0.42,0.42,0.0048185080191436,0,0,1,0,1,False,True
 Consumer Discretionary,North America,United States,hyatt hotels corp,61571951,0.07,0.42,0.0047884499958895,0,0,1,0,1,True,True
 Financials,Europe,Denmark,sydbank as,60023178,2.08,2.08,0.0046680019356114,0,1,0,0,1,False,False
 Consumer Discretionary,North America,United States,carnival corp,59197759,0.18,0.18,0.0046038091084724,1,1,0,1,1,True,True
 Consumer Staples,Asia,Japan,suntory beverage & food ltd,58824536,0.6,0.6,0.0045747835596017,1,1,1,1,1,False,False
-Industrials,Europe,Netherlands,randstad nv,58591519,0.77,0.77,0.0045566618299087,0,1,0,0,1,False,False
+Industrials,Europe,Netherlands,randstad nv,58591519,0.77,0.77,0.0045566618299087,0,1,0,0,1,False,True
 Consumer Staples,Europe,Portugal,jeronimo martins sgps sa,58063133,0.48,0.48,0.0045155692561241,0,1,1,0,1,True,True
-Industrials,North America,United States,cognex corp,57991752,0.94,0.94,0.0045100179564884,0,1,1,0,1,False,False
-Financials,North America,United States,invesco ltd,57459102,0.73,0.73,0.0044685937714677,0,0,1,0,1,False,False
-Real Estate,North America,United States,cousins properties inc,57194401,1.11,1.11,0.0044480079774206,1,1,1,1,1,False,False
+Industrials,North America,United States,cognex corp,57991752,0.94,0.94,0.0045100179564884,0,1,1,0,1,False,True
+Financials,North America,United States,invesco ltd,57459102,0.73,0.73,0.0044685937714677,0,0,1,0,1,False,True
+Real Estate,North America,United States,cousins properties inc,57194401,1.11,1.11,0.0044480079774206,1,1,1,1,1,False,True
 Industrials,North America,United States,franklin electric co inc,56968101,1.28,1.28,0.0044304086287485,1,0,1,1,1,False,False
 Consumer Staples,Latin America,Mexico,arca continental sab de cv,54929081,0.39,0.39,0.0042718340643236,1,1,0,1,1,True,True
-Utilities,Europe,Finland,fortum oyj,54110337,0.43,0.43,0.0042081603518659,1,0,0,1,1,False,False
-Financials,Latin America,Brazil,bb seguridade participacoes sa,54064786,0.46,0.46,0.0042046178510644,0,0,1,0,1,False,False
-Financials,Europe,Switzerland,swiss life holding ag,53295432,0.24,0.24,0.0041447851983986,0,0,1,0,1,False,False
+Utilities,Europe,Finland,fortum oyj,54110337,0.43,0.43,0.0042081603518659,1,0,0,1,1,False,True
+Financials,Latin America,Brazil,bb seguridade participacoes sa,54064786,0.46,0.46,0.0042046178510644,0,0,1,0,1,False,True
+Financials,Europe,Switzerland,swiss life holding ag,53295432,0.24,0.24,0.0041447851983986,0,0,1,0,1,False,True
 Consumer Discretionary,Asia,Japan,koito manufacturing co ltd,52568074,1.34,1.34,0.0040882185742209,1,1,1,1,1,False,False
 Financials,North America,United States,franklin resources inc,52489215,0.49,0.49,0.0040820857106021,0,0,1,0,1,False,False
 Consumer Staples,Europe,Sweden,aak ab,52466078,0.71,0.71,0.0040802863463501,1,0,0,1,1,True,True
-Health Care,North America,United States,roivant sciences ltd,52442556,0.61,0.61,0.004078457040652,0,0,1,0,1,False,False
+Health Care,North America,United States,roivant sciences ltd,52442556,0.61,0.61,0.004078457040652,0,0,1,0,1,False,True
 Consumer Discretionary,Europe,France,seb sa,51009416,0.69,1.02,0.0039670017575945,0,0,1,0,1,True,True
-Industrials,Europe,Switzerland,dormakaba holding ag,50481783,1.69,1.69,0.0039259677446122,1,0,1,0,1,False,False
+Industrials,Europe,Switzerland,dormakaba holding ag,50481783,1.69,1.69,0.0039259677446122,1,0,1,0,1,False,True
 Basic Materials,North America,Canada,hudbay minerals inc,50268463,1.58,1.58,0.0039093778504066,1,1,1,0,1,True,True
-Telecommunications,Africa,Kenya,safaricom plc,50175747,0.95,0.95,0.0039021673280403,0,1,0,0,1,False,False
+Telecommunications,Africa,Kenya,safaricom plc,50175747,0.95,0.95,0.0039021673280403,0,1,0,0,1,False,True
 Real Estate,Asia,China,longfor group holdings ltd,49991821,0.56,0.56,0.0038878634049123,0,1,0,0,1,False,False
 Energy,Europe,Germany,thyssenkrupp nucera ag & co kgaa,49903386,3.6,3.6,0.0038809858158721,1,1,1,1,1,False,False
 Basic Materials,North America,United States,fmc corp,49888443,0.82,0.82,0.0038798236989158,1,0,1,0,1,True,True
 Consumer Discretionary,North America,United States,lyft inc,49598810,0.67,0.93,0.0038572989434852,0,1,0,0,1,False,False
 Consumer Discretionary,Europe,United Kingdom,ssp group plc,48392504,2.68,2.68,0.0037634845382743,0,1,1,0,1,True,True
-Industrials,Europe,Germany,thyssenkrupp ag,46404681,1.84,1.84,0.0036088915640127,0,1,1,0,1,False,False
-Industrials,Europe,Italy,ariston holding nv,46398383,1.04,3.48,0.0036084017686175,1,1,1,1,1,False,False
-Industrials,North America,United States,verra mobility corp,46155920,1.16,1.16,0.0035895454236016,0,0,1,0,1,False,False
-Utilities,Europe,United Kingdom,drax group plc,46091555,1.54,1.54,0.0035845397582137,1,0,0,1,1,False,False
+Industrials,Europe,Germany,thyssenkrupp ag,46404681,1.84,1.84,0.0036088915640127,0,1,1,0,1,False,True
+Industrials,Europe,Italy,ariston holding nv,46398383,1.04,3.48,0.0036084017686175,1,1,1,1,1,False,True
+Industrials,North America,United States,verra mobility corp,46155920,1.16,1.16,0.0035895454236016,0,0,1,0,1,False,True
+Utilities,Europe,United Kingdom,drax group plc,46091555,1.54,1.54,0.0035845397582137,1,0,0,1,1,False,True
 Energy,North America,United States,enphase energy inc,45963197,0.5,0.5,0.0035745573578741,1,0,1,1,1,False,False
 Consumer Discretionary,North America,United States,travel + leisure co,45803605,1.33,1.33,0.0035621458896758,0,1,0,0,1,True,True
-Health Care,North America,United States,dentsply sirona inc,45672276,1.21,1.21,0.0035519324346968,0,1,1,0,1,False,False
+Health Care,North America,United States,dentsply sirona inc,45672276,1.21,1.21,0.0035519324346968,0,1,1,0,1,False,True
 Basic Materials,North America,United States,cleveland-cliffs inc,45381264,0.98,0.98,0.0035293004344504,1,0,0,1,1,True,True
-Industrials,Asia,Japan,taiheiyo cement corp,44244420,1.64,1.64,0.0034408880882649,1,0,0,1,1,False,False
+Industrials,Asia,Japan,taiheiyo cement corp,44244420,1.64,1.64,0.0034408880882649,1,0,0,1,1,False,True
 Basic Materials,Europe,Spain,acerinox sa,44222411,1.81,1.81,0.0034391764485613,1,1,0,0,1,True,True
 Industrials,Asia,China,j&t global express ltd,44125236,0.32,0.63,0.0034316191498109,0,1,1,0,1,False,False
-Utilities,Europe,Spain,solaria energia y medio ambiente sa,44022752,4.35,4.35,0.0034236489701852,1,0,0,1,1,False,False
+Utilities,Europe,Spain,solaria energia y medio ambiente sa,44022752,4.35,4.35,0.0034236489701852,1,0,0,1,1,False,True
 Basic Materials,North America,United States,royal gold inc,44009025,0.51,0.51,0.0034225814215364,1,0,0,0,1,False,False
 Health Care,North America,United States,neurocrine biosciences inc,43392667,0.31,0.31,0.0033746472662168,0,0,1,0,1,False,False
 Technology,Asia,Indonesia,goto gojek tokopedia tbk pt,43042415,0.37,0.83,0.0033474081717797,0,1,1,0,1,False,False
 Financials,North America,United States,carlyle group inc/the,42620225,0.24,0.24,0.0033145744598227,0,0,1,0,1,False,False
-Industrials,Asia,Japan,omron corp,41970162,0.6,0.6,0.0032640190669998,1,1,1,1,1,False,False
+Industrials,Asia,Japan,omron corp,41970162,0.6,0.6,0.0032640190669998,1,1,1,1,1,False,True
 Consumer Discretionary,Europe,Germany,schaeffler ag,41969760,1.01,1.01,0.003263987803464,1,1,1,1,1,True,True
 Consumer Discretionary,Europe,United Kingdom,wh smith plc,41916226,2.17,2.17,0.0032598244648347,0,0,1,0,1,True,True
 Basic Materials,Europe,Türkiye,eregli demir ve celik fabrikalari tas,41402129,0.86,0.86,0.0032198431464331,1,0,1,1,1,True,True
-Industrials,Europe,Finland,huhtamaki oyj,41163362,1.08,1.08,0.0032012742392992,1,0,1,0,1,False,False
-Financials,Europe,Sweden,kinnevik ab,41040250,1.26,2.17,0.0031916998203257,1,1,1,0,1,False,False
+Industrials,Europe,Finland,huhtamaki oyj,41163362,1.08,1.08,0.0032012742392992,1,0,1,0,1,False,True
+Financials,Europe,Sweden,kinnevik ab,41040250,1.26,2.17,0.0031916998203257,1,1,1,0,1,False,True
 Basic Materials,Africa,South Africa,sappi ltd,40992389,2.6,2.6,0.003187977670848,1,0,0,1,1,True,True
 Consumer Staples,Asia,Japan,yakult honsha co ltd,39673084,0.61,0.61,0.0030853753345695,0,0,1,0,1,False,False
 Consumer Discretionary,North America,United States,goodyear tire & rubber co/the,39626397,1.55,1.55,0.0030817444870598,0,1,1,0,1,False,False
 Technology,Asia,Japan,net one systems co ltd,39216273,1.71,1.71,0.0030498491477986,0,1,1,0,1,False,False
 Consumer Discretionary,Europe,Sweden,electrolux ab,39174597,1.32,1.66,0.0030466080057073,0,1,1,0,1,True,True
 Basic Materials,Europe,Austria,voestalpine ag,38919026,1.15,1.15,0.0030267322516664,1,1,1,0,1,True,True
-Industrials,Europe,France,bouygues sa,38516321,0.27,0.34,0.0029954138879589,1,1,1,0,1,False,False
-Utilities,North America,United States,california water service group,37998371,1.41,1.41,0.002955132921787,1,1,1,1,1,False,False
+Industrials,Europe,France,bouygues sa,38516321,0.27,0.34,0.0029954138879589,1,1,1,0,1,False,True
+Utilities,North America,United States,california water service group,37998371,1.41,1.41,0.002955132921787,1,1,1,1,1,False,True
 Consumer Staples,Asia,Japan,kobe bussan co ltd,37747936,0.63,0.63,0.0029356565944132,0,0,1,0,1,False,False
 Basic Materials,North America,United States,albemarle corp,37256113,0.37,0.37,0.0028974075247625,1,0,1,1,1,True,True
 Basic Materials,Europe,Germany,lanxess ag,36674030,1.74,1.74,0.0028521389358403,1,0,1,1,1,True,True
 Consumer Staples,Asia,Japan,coca-cola bottlers japan holdings inc,36389341,1.25,1.25,0.0028299986752388,0,1,1,0,1,False,False
 Consumer Discretionary,Europe,France,vivendi se,35975700,1.27,1.31,0.0027978298189239,0,0,1,0,1,True,True
-Industrials,Europe,Switzerland,adecco group ag,35723570,0.86,0.86,0.0027782216714175,0,1,1,0,1,False,False
+Industrials,Europe,Switzerland,adecco group ag,35723570,0.86,0.86,0.0027782216714175,0,1,1,0,1,False,True
 Utilities,Europe,Belgium,elia group sa/nv,35698658,0.63,0.63,0.0027762842654338,1,1,1,1,1,False,False
-Financials,North America,United States,jefferies financial group inc,35519826,0.22,0.22,0.0027623765026334,0,1,0,0,1,False,False
+Financials,North America,United States,jefferies financial group inc,35519826,0.22,0.22,0.0027623765026334,0,1,0,0,1,False,True
 Basic Materials,Latin America,Brazil,klabin sa,35262363,1.05914230722964,0.15,0.0027423536077718,1,0,1,1,1,True,True
-Financials,Europe,United Kingdom,quilter plc,35227715,1.31,1.31,0.0027396590331683,0,1,1,0,1,False,False
-Technology,Europe,Germany,nemetschek se,35056783,0.31,0.31,0.0027263656532866,0,1,1,0,1,False,False
+Financials,Europe,United Kingdom,quilter plc,35227715,1.31,1.31,0.0027396590331683,0,1,1,0,1,False,True
+Technology,Europe,Germany,nemetschek se,35056783,0.31,0.31,0.0027263656532866,0,1,1,0,1,False,True
 Consumer Discretionary,North America,United States,ebay inc,34596659,0.12,0.12,0.0026905818145398,0,0,1,0,1,True,True
 Consumer Staples,Asia,Japan,kobayashi pharmaceutical co ltd,32643796,1.06,1.06,0.0025387076791186,0,1,0,0,1,False,False
 Consumer Discretionary,North America,United States,lear corp,31881228,0.62,0.62,0.002479402773603,1,0,1,1,1,True,True
-Industrials,North America,United States,modine manufacturing co,31589882,0.52,0.52,0.0024567447981801,1,0,0,1,1,False,False
-Utilities,North America,United States,sunrun inc,31021679,1.49,1.49,0.0024125556567151,1,1,1,1,1,False,False
+Industrials,North America,United States,modine manufacturing co,31589882,0.52,0.52,0.0024567447981801,1,0,0,1,1,False,True
+Utilities,North America,United States,sunrun inc,31021679,1.49,1.49,0.0024125556567151,1,1,1,1,1,False,True
 Basic Materials,North America,Canada,lundin gold inc,30981501,0.61,0.61,0.0024094310140684,0,0,1,0,1,True,True
 Financials,Europe,Belgium,ageas sa/nv,30255235,0.33,0.33,0.0023529493147193,0,0,1,0,1,False,False
 Consumer Discretionary,North America,United States,visteon corp,29468348,1.2,1.2,0.0022917531208239,0,0,1,0,1,True,True
-Real Estate,Europe,United Kingdom,safestore holdings plc,28901650,1.64,1.64,0.0022476810231935,0,0,1,0,1,False,False
+Real Estate,Europe,United Kingdom,safestore holdings plc,28901650,1.64,1.64,0.0022476810231935,0,0,1,0,1,False,True
 Basic Materials,North America,Canada,lundin mining corp,28882729,0.43,0.43,0.0022462095372181,1,1,1,0,1,True,True
 Consumer Staples,North America,United States,j & j snack foods corp,28646616,0.95,0.95,0.0022278470316369,1,1,0,0,1,False,False
-Industrials,Asia,Japan,nabtesco corp,28575276,1.32,1.32,0.0022222989205708,0,1,1,0,1,False,False
+Industrials,Asia,Japan,nabtesco corp,28575276,1.32,1.32,0.0022222989205708,0,1,1,0,1,False,True
 Basic Materials,North America,United States,sigma lithium corp,28050000,2.25,2.25,0.0021814482114542,1,0,1,1,1,True,True
-Industrials,Asia,Japan,fujitsu general ltd,27902604,1.72,1.72,0.0021699852260505,1,1,1,1,1,False,False
+Industrials,Asia,Japan,fujitsu general ltd,27902604,1.72,1.72,0.0021699852260505,1,1,1,1,1,False,True
 Industrials,Asia,Thailand,siam cement pcl/the,27516572,0.47,0.47,0.0021399635213815,1,0,0,1,1,False,False
-Financials,Europe,Sweden,svenska handelsbanken ab,27104477,0.13,0.13,0.0021079148974707,0,1,0,0,1,False,False
+Financials,Europe,Sweden,svenska handelsbanken ab,27104477,0.13,0.13,0.0021079148974707,0,1,0,0,1,False,True
 Technology,North America,United States,allegro microsystems inc,26926405,0.67,0.67,0.0020940662398625,0,0,1,0,1,False,False
-Real Estate,North America,United States,national storage affiliates trust,26736520,0.6,0.6,0.0020792988853658,1,0,1,1,1,False,False
+Real Estate,North America,United States,national storage affiliates trust,26736520,0.6,0.6,0.0020792988853658,1,0,1,1,1,False,True
 Basic Materials,Latin America,Chile,empresas cmpc sa,25882762,0.66,0.66,0.0020129021344883,1,0,0,1,1,True,True
-Health Care,North America,United States,acadia pharmaceuticals inc,25554540,0.84,0.84,0.0019873763129246,0,0,1,0,1,False,False
+Health Care,North America,United States,acadia pharmaceuticals inc,25554540,0.84,0.84,0.0019873763129246,0,0,1,0,1,False,True
 Consumer Staples,Europe,Türkiye,anadolu efes biracilik ve malt sanayii as,25466834,0.79,0.79,0.0019805554182068,1,0,1,0,1,False,False
 Consumer Discretionary,Asia,Japan,monotaro co ltd,25351458,0.3,0.3,0.0019715826278737,1,1,1,0,1,False,False
 Real Estate,Asia,Hong Kong,hang lung properties ltd,24723398,0.64,0.64,0.0019227384081344,0,0,1,0,1,False,False
 Consumer Discretionary,Europe,Germany,springer nature ag & co kgaa,24674953,0.44,0.44,0.0019189708409828,0,0,1,0,1,False,False
-Real Estate,Europe,Belgium,vgp nv,23575780,0.8,1.17,0.0018334881680798,1,0,1,1,1,False,False
-Industrials,Europe,Italy,industrie de nora spa,23040166,0.58,1.46,0.0017918334728096,1,0,1,1,1,False,False
-Financials,Europe,United Kingdom,integrafin holdings plc,23036717,1.61,1.61,0.001791565244115,0,1,1,0,1,False,False
+Real Estate,Europe,Belgium,vgp nv,23575780,0.8,1.17,0.0018334881680798,1,0,1,1,1,False,True
+Industrials,Europe,Italy,industrie de nora spa,23040166,0.58,1.46,0.0017918334728096,1,0,1,1,1,False,True
+Financials,Europe,United Kingdom,integrafin holdings plc,23036717,1.61,1.61,0.001791565244115,0,1,1,0,1,False,True
 Basic Materials,Europe,Sweden,boliden ab,22595846,0.29,0.29,0.0017572787109802,0,1,1,0,1,True,True
-Real Estate,North America,United States,tanger inc,22239483,0.59,0.59,0.0017295643641361,1,0,1,1,1,False,False
+Real Estate,North America,United States,tanger inc,22239483,0.59,0.59,0.0017295643641361,1,0,1,1,1,False,True
 Consumer Discretionary,Europe,Sweden,volvo car ab,22134003,0.34,0.34,0.0017213611856211,1,0,1,1,1,True,True
 Basic Materials,Asia,Indonesia,vale indonesia tbk pt,22019055,0.93,0.93,0.0017124216808436,1,1,0,0,1,False,False
-Health Care,North America,United States,denali therapeutics inc,21717091,0.74,0.74,0.0016889379436698,0,0,1,0,1,False,False
-Financials,North America,Canada,sprott inc,20935507,1.92,1.92,0.0016281541640298,0,0,1,0,1,False,False
+Health Care,North America,United States,denali therapeutics inc,21717091,0.74,0.74,0.0016889379436698,0,0,1,0,1,False,True
+Financials,North America,Canada,sprott inc,20935507,1.92,1.92,0.0016281541640298,0,0,1,0,1,False,True
 Consumer Staples,Asia,Japan,matsukiyococokara & co,20271152,0.33,0.33,0.001576487282514,0,0,1,0,1,False,False
-Technology,Europe,Switzerland,softwareone holding ag,20263591,1.9,1.9,0.0015758992636217,0,0,1,0,1,False,False
+Technology,Europe,Switzerland,softwareone holding ag,20263591,1.9,1.9,0.0015758992636217,0,0,1,0,1,False,True
 Consumer Discretionary,Asia,Malaysia,sime darby bhd,18475603,0.51,0.51,0.0014368474552545,1,1,0,1,1,False,False
 Basic Materials,Europe,Finland,stora enso oyj,18369222,0.08,0.23,0.0014285742059788,1,1,1,1,1,True,True
 Consumer Discretionary,North America,United States,dutch bros inc,17266177,0.07,0.21,0.0013427904076756,0,1,1,0,1,True,True
 Consumer Discretionary,North America,United States,coursera inc,17010022,1.26,1.26,0.0013228692359607,0,1,1,0,1,False,False
-Financials,Europe,United Kingdom,pensionbee group plc,16034672,3.38,3.38,0.0012470162764939,1,1,1,1,1,False,False
-Industrials,Europe,Greece,titan cement international sa,16026434,0.49,0.49,0.0012463756073187,1,0,1,1,1,False,False
+Financials,Europe,United Kingdom,pensionbee group plc,16034672,3.38,3.38,0.0012470162764939,1,1,1,1,1,False,True
+Industrials,Europe,Greece,titan cement international sa,16026434,0.49,0.49,0.0012463756073187,1,0,1,1,1,False,True
 Basic Materials,North America,Canada,triple flag precious metals corp,15707955,0.52,0.52,0.0012216074987648,1,1,1,0,1,True,True
 Utilities,Asia,India,adani green energy ltd,15013807,0.08,0.08,0.0011676236159454,1,1,1,1,1,False,False
 Consumer Staples,Asia,Malaysia,carlsberg brewery malaysia bhd,14850657,1.05,1.05,0.0011549354421237,0,1,0,0,1,False,False
-Financials,Europe,United Kingdom,schroders plc,14486565,0.22,0.22,0.001126620011029,1,1,1,1,1,False,False
+Financials,Europe,United Kingdom,schroders plc,14486565,0.22,0.22,0.001126620011029,1,1,1,1,1,False,True
 Consumer Discretionary,Asia,Japan,kose corp,14022392,0.51,0.51,0.0010905212815939,0,0,1,0,1,True,True
 Consumer Discretionary,Europe,France,opmobility,13242451,1.05914230722964,0.88,0.001029865278047,1,0,1,1,1,True,True
 Basic Materials,Europe,Germany,k+s ag,12976247,0.67,0.67,0.0010091625957054,1,1,1,1,1,True,True
-Financials,Europe,France,credit agricole sa,12946257,0.03,0.03,0.0010068302737139,1,1,1,1,1,False,False
-Industrials,Europe,Sweden,powercell sweden ab,12837071,7.67,7.67,0.0009983388796171,1,1,1,1,1,False,False
+Financials,Europe,France,credit agricole sa,12946257,0.03,0.03,0.0010068302737139,1,1,1,1,1,False,True
+Industrials,Europe,Sweden,powercell sweden ab,12837071,7.67,7.67,0.0009983388796171,1,1,1,1,1,False,True
 Consumer Discretionary,North America,United States,ralph lauren corp,12618899,0.02,0.09,0.0009813716454214,0,1,1,0,1,True,True
 Energy,North America,United States,shoals technologies group inc,12472003,1.35,1.35,0.0009699475450125,1,0,0,1,1,False,False
 Basic Materials,Asia,China,ganfeng lithium group co ltd,12459566,0.23,0.23,0.0009689803196505,1,0,1,0,1,False,False
@@ -1908,18 +1908,18 @@ Technology,North America,United States,bentley systems inc,6360587,0.02,0.04,0.0
 Energy,North America,United States,solaredge technologies inc,6078275,0.77,0.77,0.0004727073842237,1,1,1,1,1,False,False
 Basic Materials,Europe,Netherlands,aperam sa,5221730,0.27,0.27,0.0004060938883849,1,0,1,0,1,True,True
 Telecommunications,North America,United States,cogent communications holdings inc,4993751,0.13,0.13,0.0003883639639001,0,0,1,0,1,False,False
-Telecommunications,Latin America,Brazil,telefonica brasil sa,4711242,0.04,0.04,0.0003663932418762,0,0,1,0,1,False,False
-Financials,Europe,Spain,mapfre sa,4567174,0.06,0.06,0.0003551890749982,1,1,1,1,1,False,False
+Telecommunications,Latin America,Brazil,telefonica brasil sa,4711242,0.04,0.04,0.0003663932418762,0,0,1,0,1,False,True
+Financials,Europe,Spain,mapfre sa,4567174,0.06,0.06,0.0003551890749982,1,1,1,1,1,False,True
 Consumer Discretionary,Asia,Japan,dentsu group inc,4373127,0.07,0.07,0.0003400980418043,0,0,1,0,1,False,False
-Industrials,North America,United States,nikola corp,4219375,4.2,4.2,0.0003281407503459,1,1,1,1,1,False,False
+Industrials,North America,United States,nikola corp,4219375,4.2,4.2,0.0003281407503459,1,1,1,1,1,False,True
 Basic Materials,Asia,China,shandong nanshan aluminum co ltd,4053479,0.07,0.07,0.0003152390201325,1,0,1,0,1,False,False
-Real Estate,North America,United States,jbg smith properties,3836567,0.3,0.3,0.0002983697761238,1,1,1,0,1,False,False
-Financials,Europe,Germany,deutsche pfandbriefbank ag,3188181,0.48,0.48,0.0002479448035737,0,0,1,0,1,False,False
+Real Estate,North America,United States,jbg smith properties,3836567,0.3,0.3,0.0002983697761238,1,1,1,0,1,False,True
+Financials,Europe,Germany,deutsche pfandbriefbank ag,3188181,0.48,0.48,0.0002479448035737,0,0,1,0,1,False,True
 Basic Materials,Europe,Germany,salzgitter ag,2949252,0.3,0.3,0.0002293632977015,1,1,0,1,1,True,True
 Real Estate,North America,United States,paramount group inc,2700772,0.25,0.25,0.0002100390106576,1,1,1,0,1,False,False
 Energy,Europe,Germany,sma solar technology ag,2047163,0.42,0.42,0.0001592078454511,1,0,0,1,1,True,True
 Energy,North America,United States,fluence energy inc,1321311,0.02,0.05,0.0001027583428778,1,0,0,1,1,False,False
-Financials,Europe,Belgium,kbc group nv,640645,1.05914230722964,0.0,4.982295505979073e-05,0,0,1,0,1,False,False
+Financials,Europe,Belgium,kbc group nv,640645,1.05914230722964,0.0,4.982295505979073e-05,0,0,1,0,1,False,True
 Consumer Discretionary,Europe,France,forvia se,533006,0.03,0.03,4.145187113705533e-05,1,0,1,0,1,True,True
 Consumer Staples,North America,United States,hershey co/the,477736,1.05914230722964,0.0,3.71535238056087e-05,0,1,0,0,1,False,False
 Consumer Discretionary,North America,United States,tripadvisor inc,7533,1.05914230722964,0.0,5.858413325092737e-07,0,1,0,0,1,False,False

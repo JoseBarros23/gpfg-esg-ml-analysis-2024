@@ -1,0 +1,229 @@
+company_name,ticker,total_meetings_2020_plus,total_disagreements
+amazon.com inc,AMZN,6,29
+meta platforms inc,META,6,36
+taiwan semiconductor manufacturing co ltd,2330,11,12
+tesla inc,TSLA,6,29
+eli lilly & co,LLY,6,13
+jpmorgan chase & co,JPM,6,14
+tencent holdings ltd,700,9,1
+procter & gamble co/the,500126,11,1
+home depot inc/the,HD,6,16
+netflix inc,NFLX,6,15
+alibaba group holding ltd,9988,12,4
+johnson & johnson,JNJ,6,8
+samsung electronics co ltd,005930,7,0
+digital realty trust inc,DLR,7,3
+salesforce inc,CRM,6,5
+nextera energy inc,NEE,6,8
+merck & co inc,MRK,6,12
+coca-cola co/the,KO,6,20
+wells fargo & co,WFC,6,8
+cisco systems inc,CSCO,5,14
+advanced micro devices inc,AMD,7,12
+pepsico inc,PEP,6,16
+servicenow inc,NOW,7,10
+intuitive surgical inc,ISRG,7,5
+walt disney co/the,DIS,6,40
+blackrock inc,BLK,6,6
+sanofi sa,500674,15,4
+caterpillar inc,CAT,6,15
+mitsubishi ufj financial group inc,8306,6,8
+simon property group inc,SPG,6,2
+bhp group ltd,BHP,7,0
+progressive corp/the,PGR,6,0
+at&t inc,T,6,7
+lowe's cos inc,LOW,6,8
+t-mobile us inc,TMUS,6,2
+analog devices inc,ADI,7,5
+cie financiere richemont sa,CFR,15,24
+gilead sciences inc,GILD,6,12
+sk hynix inc,000660,6,0
+recruit holdings co ltd,6098,6,0
+palantir technologies inc,PLTR,5,0
+tjx cos inc/the,TJX,6,6
+alexandria real estate equities inc,ARE,6,1
+sumitomo mitsui financial group inc,8309,6,2
+goldman sachs group inc/the,GS,6,19
+applied materials inc,AMAT,6,1
+avalonbay communities inc,AVB,6,1
+uber technologies inc,UBER,6,6
+aia group ltd,1299,6,0
+eaton corp plc,ETN,6,5
+tokio marine holdings inc,8766,6,0
+icici bank ltd,532174,11,0
+micron technology inc,MU,6,1
+fiserv inc,FI,6,9
+kkr & co inc,KREF,0,0
+arthur j gallagher & co,AJG,6,6
+apollo global management inc,APO,6,5
+arista networks inc,ANET,6,3
+shin-etsu chemical co ltd,7970,6,1
+sherwin-williams co/the,SHW,6,6
+pnc financial services group inc/the,PNC,6,6
+udr inc,UDR,6,2
+charles schwab corp/the,SCHW,7,10
+nintendo co ltd,7974,6,0
+sompo holdings inc,8630,6,1
+deere & co,DE,6,6
+marsh & mclennan cos inc,MMC,6,0
+cadence design systems inc,CDNS,6,3
+mizuho financial group inc,8411,6,4
+elevance health inc,ELV,6,2
+mediatek inc,2454,6,16
+intercontinental exchange inc,ICE,6,2
+bharti airtel ltd,544162,4,0
+anz group holdings ltd,ANZ,7,0
+chubb ltd,CB,7,20
+bank of new york mellon corp/the,BK,6,0
+nike inc,NKE,6,11
+marvell technology inc,MRVL,7,7
+fast retailing co ltd,9983,6,0
+mondelez international inc,MDLZ,6,14
+chipotle mexican grill inc,CMG,6,16
+crowdstrike holdings inc,CRWD,5,2
+ge vernova inc,GEV,1,0
+paypal holdings inc,PYPL,6,7
+motorola solutions inc,MSI,6,10
+united parcel service inc,UPS,6,19
+equinix inc,3811,0,0
+hon hai precision industry co ltd,2317,5,15
+mitsui & co ltd,8031,6,0
+charter communications inc,CHTR,8,37
+infosys ltd,500209,12,0
+muenchener rueckversicherungs-gesellschaft ag in muenchen,MUV2,6,0
+waste management inc,WM,6,1
+toronto-dominion bank/the,TD,6,10
+moody's corp,MCO,6,0
+palo alto networks inc,PANW,6,10
+graphic packaging holding co,GPK,6,1
+rakuten bank ltd,5838,2,1
+api group corp,APG,5,9
+glaukos corp,GKOS,6,2
+willscot holdings corp,WSC,6,2
+ltimindtree ltd,540005,7,0
+intermediate capital group plc,ICG,6,0
+mobileye global inc,MBLY,3,2
+universal display corp,OLED,6,0
+chemed corp,CHE,6,4
+nebius group nv,NBIS,2,0
+fabrinet,FN,2,0
+wintrust financial corp,WTFC,6,0
+west japan railway co,9021,6,0
+fresenius medical care ag,FME,7,1
+flowserve corp,FLS,6,1
+singapore technologies engineering ltd,S63,7,0
+makita corp,6586,6,0
+element fleet management corp,EFN,6,3
+maplebear inc,CART,2,2
+rambus inc,RMBS,6,0
+eagle materials inc,EXP,6,1
+bancolombia sa,CIBEST,12,1
+otsuka corp,4768,6,0
+open text corp,OTEX,6,7
+lasertec corp,6920,6,0
+getinge ab,GETI.B,6,28
+pb fintech ltd,543390,8,2
+georg fischer ag,GF,12,9
+kite realty group trust,KRG,7,6
+generac holdings inc,GNRC,6,3
+inventurus knowledge solutions ltd,544309,2,0
+gold circuit electronics ltd,2368,6,2
+hiwin technologies corp,2049,6,0
+bollore se,BOL,6,32
+sagax ab,SAGA.B,8,10
+rational ag,RAA,6,2
+japan metropolitan fund invest,8953,4,0
+xp inc,XP,6,4
+onto innovation inc,ONTO,4,0
+axalta coating systems ltd,AXTA,6,4
+ipsen sa,IPN,6,7
+altagas ltd,ALA,6,0
+kawasaki heavy industries ltd,7012,6,2
+buzzi spa,BZU,9,5
+sofina sa,SOF,8,1
+scholar rock holding corp,SRRK,4,3
+mgic investment corp,MTG,6,0
+swedish orphan biovitrum ab,SOBI,8,6
+bankinter sa,BKT,6,0
+alkem laboratories ltd,539523,19,10
+nextdc ltd,NXT,6,1
+yaskawa electric corp,6506,6,0
+yokogawa electric corp,6841,6,0
+international distribution services plc,IDS,5,0
+janus henderson group plc,JHG,6,0
+hyosung heavy industries corp,298040,5,1
+sectra ab,SECT.B,6,3
+phison electronics corp,8299,6,18
+diasorin spa,DIA,9,8
+sojitz corp,2768,6,0
+banco comercial portugues sa,BCP,7,2
+cemex sab de cv,CEMEXCPO,8,0
+skandinaviska enskilda banken ab,SEB.A,7,6
+rotork plc,ROR,6,1
+nexans sa,NEX,6,3
+ig group holdings plc,IGG,7,0
+helvetia holding ag,HELN,14,7
+ihi corp,7013,6,0
+aalberts nv,AALB,10,0
+bridgepoint group plc,BPT,5,0
+tritax big box reit plc,BBOX,7,0
+endesa sa,ELE,7,0
+knife river corp,KNF,2,0
+vontier corp,VNT,5,0
+comerica inc,CMA,6,6
+phoenix group holdings plc,PHNX,7,0
+cembra money bank ag,CMBN,12,6
+daimler truck holding ag,DTG,4,0
+turkiye garanti bankasi as,GARAN.E,5,11
+randstad nv,RAND,8,0
+cognex corp,CGNX,6,0
+invesco ltd,IVZ,6,1
+cousins properties inc,CUZ,6,0
+fortum oyj,FORTUM,7,1
+bb seguridade participacoes sa,BBSE3,10,1
+swiss life holding ag,SLHN,12,6
+roivant sciences ltd,ROIV,3,2
+dormakaba holding ag,DOKA,12,9
+safaricom plc,SCOM,6,4
+thyssenkrupp ag,TKA,7,0
+ariston holding nv,ARIS,6,1
+verra mobility corp,VRRM,6,0
+drax group plc,DRX,6,0
+dentsply sirona inc,XRAY,6,0
+taiheiyo cement corp,5233,6,3
+solaria energia y medio ambiente sa,SLR,5,5
+omron corp,6645,6,0
+huhtamaki oyj,HUH1V,6,1
+kinnevik ab,KINV.B,8,1
+bouygues sa,EN,7,54
+california water service group,CWT,6,3
+adecco group ag,ADEN,12,6
+jefferies financial group inc,JEF,7,11
+quilter plc,QLT,8,0
+nemetschek se,NEM,6,5
+modine manufacturing co,MOD,6,0
+sunrun inc,RUN,7,2
+safestore holdings plc,SAFE,7,0
+nabtesco corp,6268,6,0
+fujitsu general ltd,6755,7,2
+svenska handelsbanken ab,SHB.A,7,1
+national storage affiliates trust,NSA,6,0
+acadia pharmaceuticals inc,ACAD,6,1
+vgp nv,VGP,7,6
+industrie de nora spa,DNR,4,4
+integrafin holdings plc,IHP,7,1
+tanger inc,SKT,6,3
+denali therapeutics inc,DNLI,6,2
+sprott inc,SII,2,0
+softwareone holding ag,SWON,12,7
+pensionbee group plc,PBEE,4,0
+titan cement international sa,TITC,5,6
+schroders plc,SDR,8,0
+credit agricole sa,ACA,6,0
+powercell sweden ab,PCELL,2,3
+telefonica brasil sa,VIVT3,12,4
+mapfre sa,MAP,6,11
+nikola corp,NKLA,4,1
+jbg smith properties,JBGS,6,2
+deutsche pfandbriefbank ag,PBB,7,5
+kbc group nv,KBC,7,18
