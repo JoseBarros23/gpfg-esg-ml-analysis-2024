@@ -16,12 +16,26 @@ Predicts which companies are likely to trigger ESG dialogues based on their char
 ## 4. Shareholder Voting & Governance Persistence Analysis
 Analyzes 6,692 shareholder meeting disagreements across 1,134 companies (83% portfolio market value, 2020-2025) using NBIM's Voting Records API. 
 
-**Key findings:**
-- **86.5% governance persistence rate** – issues recur year-over-year without resolution
-- **Regional governance cultures validated statistically** – North America shows 2.4x more disagreements than Asia (p<0.001)
-- **CEO/Chair separation emphasis varies by region** – 34.2% of North American disagreements vs 2.4% European (χ²=714, p<0.001)
-- **Technology sector heterogeneity** – wide variance from 0 (Nvidia, SAP) to 39 (Alphabet) disagreements
-- **Position paper patterns** – CEO remuneration (24.7% in tech), board independence (22.8% in Asia), sustainability reporting rising
+## 🔍 Key Findings
+
+**Governance Persistence:**
+- 86.5% of governance issues recur year-over-year without resolution
+- Only 13.5% cure rate within 2 years
+
+**Regional Patterns:**
+- North America: 5.3 avg disagreements/company (77.6% affected)
+- Europe: 4.3 avg (59.7% affected)
+- Asia: 2.2 avg (43.6% affected)
+- Statistical validation: p<0.001 for regional differences
+
+**Issue Drivers:**
+- CEO/Chair separation: 34.2% (North America) vs 2.4% (Europe)
+- CEO remuneration: 24.7% (Technology sector)
+- Board independence: 22.8% (Asia)
+
+**Technology Sector:**
+- Heterogeneous governance (Alphabet: 39, Nvidia: 0)
+- Not systematically worse, just higher variance
 
 **Methodology:**
 - Data extraction via NBIM Voting Records API with rate limit management
@@ -41,9 +55,9 @@ All datasets were obtained or constructed from publicly available GPFG informati
 - ESG engagement dataset (`esg_2024.xlsx`) for machine learning target variable
 
 ### Voting Records Analysis (Notebook 4)
-- **NBIM Voting Records API** (`https://vd.a.nbim.no`) – official shareholder voting data
+- **NBIM Voting Records API**: official shareholder voting data
 - Sample: 1,925 companies (P80 market value percentile + ESG_any=1 companies)
-- Coverage: 1,134 companies successfully processed (59% company count, 83% market value)
+- Coverage: 1,134 companies successfully processed (59% company count, 83% sample market value)
 - Period: 2020-2025 (5+ years of voting history)
 
 ---
@@ -129,23 +143,10 @@ pip install -r requirements_ml.txt
 
 ---
 
-## 📈 Sample Visualizations
-
-The voting analysis notebook includes 15+ professional visualizations:
-- Temporal persistence rates by sector and issue type
-- Regional governance culture comparisons (heatmaps, grouped bars)
-- Position paper evolution (2020-22 vs 2023-25)
-- Big Tech deep dive (individual company trends, issue distribution)
-- Escalation tracking (improving vs worsening companies)
-- Statistical validation charts (chi-square distributions)
-
----
-
 ## 📝 Notes
 
 - **API Key Required**: Voting analysis requires NBIM API key (stored in `.env`, not committed to repo)
 - **Rate Limits**: NBIM API enforces rate limiting (~400-600 companies per day)
-- **Sample Coverage**: 83% market value coverage prioritizes largest holdings and ESG engagement companies
 - **Statistical Rigor**: All major geographic/sectoral claims validated with hypothesis tests (α=0.05)
 
 ---
