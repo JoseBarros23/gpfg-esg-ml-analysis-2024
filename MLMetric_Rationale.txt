@@ -1,0 +1,7 @@
+Rationale for prioritizing PR-AUC over F1-score in the esg_ml Machine Learning model
+
+In highly imbalanced datasets like ours, where the positive class (ESG_any = 1) is much smaller (approximately 11%) than the negative class ( around89%), PR-AUC (Precision-Recall Area Under Curve) is a better metric than F1 or accuracy.
+
+PR-AUC focuses on the model’s ability to correctly identify positive cases without being overly influenced by the large number of negatives. A model can have high accuracy but still fail to detect positives, which would be unacceptable for our task of predicting ESG-positive companies.
+
+PR-AUC (Precision-Recall Area Under the Curve) evaluates the trade-off between precision (the fraction of predicted positives that are actually positive) and recall (the fraction of actual positives that are correctly identified), making it more informative than accuracy in this scenario.
